@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Tomorrow:wght@600&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+main {
+    width: auto;
+    height: auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    max-width: 100%;
+}
+
+
+:root {
+    --color-title: #004C89;
+    --color-black: #252525;
+    --color-white: #ffffff;
+    --color-gray:#afafaf09;
+    --color-secondgray:#E8E8E8;
+    --color-footer: #78b3e0;
+}
+
+/*---------------PRINCIPAL---------------*/
+/* -----------header----------- */
+header{
+    width: 100%;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name-header {
+    background-color: var(--color-title);
+    border-radius: 40px;
+    width: 60%;
+    margin: 15px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.name-header-title{
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 15px 30px;
+    color: var(--color-white);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+/* -----------main----------- */
+.principal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.list-principal{
+    background-color: var(--color-gray);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 70%;
+    gap: 5px;
+    padding: 15px 30px;
+    margin: 6px;
+}
+.text-list-principal{
+    font-size: 19px;
+    text-decoration: none;
+    color: var(--color-black);
+}
+.img-list-principal{
+    height: 60px;
+}
+
+/*---------------------- SECCION LIBRERIA ----------------------*/
+.name-subheader{
+    background-color: var(--color-secondgray);
+    border-radius: 40px;
+    width: 60%;
+    margin: 15px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.name-subheader .second{
+    text-align: center;
+    justify-content: center;
+
+}
+.name-subheader-title{
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 15px 30px;
+    color: var(--color-black);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.img-subheader-title{
+    height: 40px;
+}
+.principal-libreria{
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px;
+    gap: 10px;
+}
+.list-libreria{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 20px;
+    display:flex;
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 300px;
+
+}
+
+.text-list-principal{
+    font-size: 19px;
+    text-decoration: none;
+    color: var(--color-black);
+}
+.img-list-principal{
+    height: 60px;
+}
+@media (max-width: 760px) {
+    .list-libreria {
+      width: 50%;
+    }
+}
+/* -----------footer----------- */
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+}
+.footer-acoding{
+    background-color: var(--color-footer);
+    color: var(--color-white);
+    letter-spacing: 2px;
+    border-radius: 40px;
+    font-family:'Tomorrow', sans-serif;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;    
+    padding: 8px 16px;
+    width: 80%;
+    position: relative;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 13px;
+}
