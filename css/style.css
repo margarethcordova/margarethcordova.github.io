@@ -22,6 +22,14 @@ body {
     min-height: 100vh;
 }
 
+.boton {
+    cursor: pointer;
+    transition: transform 0.1s;
+}
+
+.boton:hover {
+    transform: translateY(4px);
+}
 
 :root {
     --color-title: #004C89;
@@ -192,6 +200,7 @@ header {
 .img-list-principal {
     height: 60px;
 }
+
 /*---------------------- SECCION LIBRERIA - LAMINAS ----------------------*/
 .name-subheader-laminas {
     background-color: var(--color-title);
@@ -215,6 +224,26 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+/* ----- SEARCH BOX ----- */
+.container-searchbar{
+    width: 100%;
+}
+.search-box {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+}
+
+.search-box:focus {
+    outline: none;
+    border-color:#004C89;
+    box-shadow: 0 0 5px rgba(0, 0, 255, 0.5);
+}
+
+/* -----PRODUCTOS LAMINAS----- */
 .container-laminas {
     width: 100%;
     height: auto;
