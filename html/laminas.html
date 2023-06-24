@@ -18,7 +18,7 @@
                     <p class="name-subheader-title-laminas">Láminas</p>
                 </div>
             </div>
-            <a class="return-btn boton" href="../index.html">
+            <a class="return-btn boton" href="../html/libreria.html">
                 <img class="img-return" src="../return.png" alt="regresar">
             </a>
         </header>
@@ -28,50 +28,49 @@
                     <label for="input">
                         <p>Escribe el tema que desear encontrar:</p>
                     </label>
-                    <input class="search-box" type="search" name="search" id="searchLaminas">
+                    <input class="search-box" type="text" id="searchInput" name="search">
                 </div>
                 <div class="principal-laminas">
-                        <div class="list-lamina" style="background-color:#FFDEDF;">
-                            <div class="number-container">
-                                <p class="number-product">01</p>
-                            </div>
-                            <div class="description-product">
-                                <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                                <br>
-                                <p class="description-product">Maryland</p>
-                            </div>
+                    <div class="list-lamina boton" style="background-color:#FFDEDF;" id="searchResults">
+                        <div class="number-container">
+                            <p class="number-product">01</p>
                         </div>
-                        <div class="list-lamina" style="background-color:#fff6c4;">
-                            <div class="number-container">
-                                <p class="number-product">01</p>
-                            </div>
-                            <div class="description-product">
-                                <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                                <br>
-                                <p class="description-product">Maryland</p>
-                            </div>
+                        <div class="description-product">
+                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
+                            <br>
+                            <p class="description">Maryland</p>
                         </div>
-                        <div class="list-lamina" style="background-color:#c1ffb0;">
-                            <div class="number-container">
-                                <p class="number-product">01</p>
-                            </div>
-                            <div class="description-product">
-                                <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                                <br>
-                                <p class="description-product">Maryland</p>
-                            </div>
+                    </div>
+                    <div class="list-lamina boton" style="background-color:#fff6c4;">
+                        <div class="number-container">
+                            <p class="number-product">01</p>
                         </div>
-                        <div class="list-lamina" style="background-color:#b6d7ff;">
-                            <div class="number-container">
-                                <p class="number-product">01</p>
-                            </div>
-                            <div class="description-product">
-                                <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                                <br>
-                                <p class="description-product">Maryland</p>
-                            </div>
+                        <div class="description-product">
+                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
+                            <br>
+                            <p class="description">Maryland</p>
                         </div>
-
+                    </div>
+                    <div class="list-lamina boton" style="background-color:#c1ffb0;">
+                        <div class="number-container">
+                            <p class="number-product">01</p>
+                        </div>
+                        <div class="description-product">
+                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
+                            <br>
+                            <p class="description">Maryland</p>
+                        </div>
+                    </div>
+                    <div class="list-lamina boton" style="background-color:#b6d7ff;">
+                        <div class="number-container">
+                            <p class="number-product">01</p>
+                        </div>
+                        <div class="description-product">
+                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
+                            <br>
+                            <p class="description">Maryland</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </main>
@@ -80,8 +79,8 @@
                 <p class="footer-text">&copy; Acoding</p>
             </div>
         </footer>
-
-
+        <!-- BUSQUEDA SCRIPT -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <!-- AOS SCRIPT -->
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </div>

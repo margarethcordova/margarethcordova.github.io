@@ -1,2 +1,40 @@
 {
+    "temasPrincipales": [
+        {
+            "nombre": "Historia del Peru",
+            "subtemas": [
+                {
+                    "nombre": "Cultura Paracas",
+                    "numero": 180,
+                    "imagen": "ruta/imagen1.png"
+                },
+                {
+                    "nombre": "Cultura Mochica",
+                    "numero": 200,
+                    "imagen": "../2.png"
+                },
+                {
+                    "nombre": "Cultura Chavin",
+                    "numero": 95,
+                    "imagen": "../3.png"
+                }
+                
+            ]
+        },
+        {
+            "nombre": "Religion",
+            "subtemas": [
+                {
+                    "nombre": "Los 10 mandamientos",
+                    "numero": 96,
+                    "imagen": "../3.png"
+                },
+                {
+                    "nombre": "Subtema 2.2",
+                    "numero": 546,
+                    "imagen": "../4.png"
+                }
+            ]
+        }
+    ]
 }

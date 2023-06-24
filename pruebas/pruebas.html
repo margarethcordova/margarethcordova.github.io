@@ -4,78 +4,153 @@
 <head>
     <title>Buscador de temas</title>
     <style>
-        .popup-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0, 0, 0, 0.5);
+        .popup {
             display: none;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .popup-content {
-            background-color: #fff;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #db3333;
             padding: 20px;
-            border-radius: 5px;
-        }
-
-        .popup-img {
-            max-width: 100%;
-            max-height: 100%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
         }
     </style>
 </head>
 
 <body>
-    <input type="text" id="searchInput" placeholder="Buscar tema...">
-    <div id="searchResults"></div>
+    <input type="text" id="searchInput" placeholder="Buscar tema">
+    <div id="searchResults">Resultados aquí</div>
 
-    <div class="popup-overlay">
-        <div class="popup-content">
-            <img id="popupImage" src="" alt="">
-        </div>
+    <div class="popup" id="imagePopup">
+        <img src="" alt="Imagen">
     </div>
-    <script src="temas.json"></script>
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
-        // Cargar el archivo JSON
-        $.getJSON('temas.json', function (data) {
-            var subtemas = data.subtemas;
+        // JSON de ejemplo
+        var temasJSON = {
+            "temasPrincipales": [
+                {
+                    "nombre": "historia del Peru",
+                    "subtemas": [
+                        {
+                            "nombre": "Cultura Paracas",
+                            "numero": 180,
+                            "imagen": "ruta/imagen1.png"
+                        },
+                        {
+                            "nombre": "Cultura Mochica",
+                            "numero": 200,
+                            "imagen": "../2.png"
+                        },
+                        {
+                            "nombre": "Cultura Chavin",
+                            "numero": 95,
+                            "imagen": "../3.png"
+                        }
 
-            // Función para mostrar los resultados de búsqueda
-            function showSearchResults(results) {
-                var searchResults = $('#searchResults');
-                searchResults.empty();
+                    ]
+                },
+                {
+                    "nombre": "religion",
+                    "subtemas": [
+                        {
+                            "nombre": "Los 10 mandamientos",
+                            "numero": 96,
+                            "imagen": "../3.png"
+                        },
+                        {
+                            "nombre": "Los milagros de Jesus",
+                            "numero": 546,
+                            "imagen": "../4.png"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "ciencia",
+                    "subtemas": [
+                        {
+                            "nombre": "El sistema excretor",
+                            "numero": 35,
+                            "imagen": "../3.png"
+                        },
+                        {
+                            "nombre": "Los 5 sentidos",
+                            "numero": 546,
+                            "imagen": "../4.png"
+                        }
+                    ]
+                }
+            ]
+        };
 
-                if (results.length === 0) {
-                    searchResults.text('Error: No se encontraron resultados.');
-                } else {
-                    results.forEach(function (result) {
-                        var resultElement = $('<div>');
-                        resultElement.text(result.nombre + ' - Número: ' + result.numero);
-                        resultElement.click(function () {
-                            showImagePopup(result.imagen);
-                        });
-                        searchResults.append(resultElement);
-                    });
+        // Función para mostrar los resultados de búsqueda
+        function mostrarResultados(resultados) {
+            var searchResults = $('#searchResults');
+            searchResults.empty();
+
+            if (resultados.length === 0) {
+                searchResults.text('No se han encontrado resultados');
+            } else {
+                for (var i = 0; i < resultados.length; i++) {
+                    var resultado = resultados[i];
+
+                    // Mostrar el nombre y el número del subtema
+                    var resultItem = $('<div>').text(resultado.nombre + ' - ' + resultado.numero);
+                        
+
+                    // Agregar un evento de clic para mostrar la imagen en la ventana emergente
+                    resultItem.click((function (imagen) {
+                        return function () {
+                            $('#imagePopup img').attr('src', imagen);
+                            $('#imagePopup').fadeIn();
+                        };
+                    })(resultado.imagen));
+
+                    searchResults.append(resultItem);
+                }
+            }
+        }
+
+        // Función para realizar la búsqueda
+        function buscarTema() {
+            var searchTerm = $('#searchInput').val().toLowerCase();
+            var resultados = [];
+
+            // Recorrer los temas y subtemas para encontrar coincidencias
+            for (var i = 0; i < temasJSON.temasPrincipales.length; i++) {
+                var tema = temasJSON.temasPrincipales[i];
+                for (var j = 0; j < tema.subtemas.length; j++) {
+                    var subtema = tema.subtemas[j];
+                    if (subtema.nombre.toLowerCase().indexOf(searchTerm) !== -1) {
+                        resultados.push(subtema);
+                    }
                 }
             }
 
-            // Función para mostrar la imagen en una ventana emergente
-            function showImagePopup(imageSrc) {
-                var popupImage = $('#popupImage');
-                popupImage.attr('src', imageSrc);
-                $('.popup-overlay').fadeIn();
-            }
+            mostrarResultados(resultados);
+        }
 
-            // Buscar en la lista de subtemas cuando se ingresa texto en el campo de búsqueda
-            $('#searchInput').on('input', function () {
-                var searchTerm = $(this).val().toLowerCase();
-                var searchResults = subtemas.filter(function (subtema) {
-                }
-                )
-            })
-        })
+        // Limpiar los resultados y mostrar el mensaje inicial
+        function limpiarResultados() {
+            $('#searchResults').empty().text('Listo para buscar!');
+        }
+
+        // Evento de cambio en el campo de búsqueda
+        $('#searchInput').on('input', function () {
+            var searchTerm = $(this).val().trim();
+            if (searchTerm !== '') {
+                buscarTema();
+            } else {
+                limpiarResultados();
+            }
+        });
+
+        // Evento de clic en la ventana emergente para cerrarla
+        $('#imagePopup').click(function () {
+            $(this).fadeOut();
+        });
+    </script>
+</body>
+
+</html>
