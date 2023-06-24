@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Buscador de temas</title>
+    <style>
+        .popup-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .popup-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .popup-img {
+            max-width: 100%;
+            max-height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <input type="text" id="searchInput" placeholder="Buscar tema...">
+    <div id="searchResults"></div>
+
+    <div class="popup-overlay">
+        <div class="popup-content">
+            <img id="popupImage" src="" alt="">
+        </div>
+    </div>
+    <script src="temas.json"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        // Cargar el archivo JSON
+        $.getJSON('temas.json', function (data) {
+            var subtemas = data.subtemas;
+
+            // Función para mostrar los resultados de búsqueda
+            function showSearchResults(results) {
+                var searchResults = $('#searchResults');
+                searchResults.empty();
+
+                if (results.length === 0) {
+                    searchResults.text('Error: No se encontraron resultados.');
+                } else {
+                    results.forEach(function (result) {
+                        var resultElement = $('<div>');
+                        resultElement.text(result.nombre + ' - Número: ' + result.numero);
+                        resultElement.click(function () {
+                            showImagePopup(result.imagen);
+                        });
+                        searchResults.append(resultElement);
+                    });
+                }
+            }
+
+            // Función para mostrar la imagen en una ventana emergente
+            function showImagePopup(imageSrc) {
+                var popupImage = $('#popupImage');
+                popupImage.attr('src', imageSrc);
+                $('.popup-overlay').fadeIn();
+            }
+
+            // Buscar en la lista de subtemas cuando se ingresa texto en el campo de búsqueda
+            $('#searchInput').on('input', function () {
+                var searchTerm = $(this).val().toLowerCase();
+                var searchResults = subtemas.filter(function (subtema) {
+                }
+                )
+            })
+        })

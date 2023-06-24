@@ -1,0 +1,20 @@
+{
+    "temaPrincipal": "Tema principal",
+    "subtemas": [
+        {
+            "nombre": "Subtema 1",
+            "numero": 1,
+            "imagen": "ruta_imagen1.jpg"
+        },
+        {
+            "nombre": "Subtema 2",
+            "numero": 2,
+            "imagen": "ruta_imagen2.jpg"
+        },
+        {
+            "nombre": "Subtema 3",
+            "numero": 3,
+            "imagen": "ruta_imagen3.jpg"
+        }
+    ]
+}
