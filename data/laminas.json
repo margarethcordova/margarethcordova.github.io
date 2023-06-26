@@ -1,20 +1,23 @@
 {
-    "temasPrincipales": [
+    "laminas": [
         {
-            "nombre": "Historia del Peru",
-            "subtemas": [
+            "curso": "historia del peru",
+            "temas": [
                 {
                     "nombre": "Cultura Paracas",
+                    "autor": "Maryland",
                     "numero": 180,
-                    "imagen": "ruta/imagen1.png"
+                    "imagen": "../imagen1.png"
                 },
                 {
                     "nombre": "Cultura Mochica",
+                    "autor": "Huascaran",
                     "numero": 200,
                     "imagen": "../2.png"
                 },
                 {
                     "nombre": "Cultura Chavin",
+                    "autor": "Maryland",
                     "numero": 95,
                     "imagen": "../3.png"
                 }
@@ -22,15 +25,17 @@
             ]
         },
         {
-            "nombre": "Religion",
-            "subtemas": [
+            "curso": "religion",
+            "temas": [
                 {
                     "nombre": "Los 10 mandamientos",
+                    "autor": "Maryland",
                     "numero": 96,
                     "imagen": "../3.png"
                 },
                 {
                     "nombre": "Subtema 2.2",
+                    "autor": "Maryland",
                     "numero": 546,
                     "imagen": "../4.png"
                 }

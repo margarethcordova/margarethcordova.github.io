@@ -16,6 +16,90 @@ main {
     text-align: center;
 }
 
+/* OPCIONES RESULTADOS - READY */
+.img-ready {
+    width: 150px;
+}
+
+.msj-ready {
+    background-color: var(--color-white);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 40px;
+    padding: 50px 40px;
+    margin: 10px;
+}
+
+/* OPCIONES LOADER*/
+.img-loader {
+    width: 150px;
+}
+
+.container-loader {
+    display: flex;
+    margin-top: 300px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--color-white);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 40px;
+    padding: 50px 40px;
+    width: 250px;
+}
+
+.loader {
+    z-index: 99999;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.479);
+}
+
+/*IMAGEN POP UP LAMINA*/
+#popup {
+    display: none;
+    position: absolute;
+    z-index: 9999;
+    width: auto;
+    height: auto;
+    border-radius: 40px 0 40px 40px;
+    background-color: rgb(153, 170, 196);
+}
+
+#popup>img {
+    height: 150px;
+    padding: 20px 30px;
+}
+
+#close-popup {
+    display: flex;
+    font-size: 30px;
+    text-align: end;
+    justify-content: end;
+    z-index: 999999;
+    color: var(--color-white);
+    padding: 0 10px;
+}
+
+/*ERROR MSJ*/
+#errorBusqueda {
+    background-color: var(--color-white);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 40px;
+    padding: 50px 40px;
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+
 body {
     font-family: 'Josefin Sans', sans-serif;
     max-width: 100%;
@@ -30,6 +114,12 @@ body {
 .boton:hover {
     transform: translateY(4px);
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+main{
+    width: 100%;
+    height: 100%;
+    display: flex;
 }
 
 :root {
@@ -125,7 +215,8 @@ header {
     border-radius: 50%;
     padding: 9px;
     display: flex;
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;}
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
 
 .img-return {
     height: 30px;
@@ -174,7 +265,6 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 30px 0px;
     gap: 15px;
 }
 
@@ -213,6 +303,7 @@ header {
     align-items: center;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
+
 .name-subheader-title-laminas {
     font-size: 25px;
     font-weight: bolder;
@@ -223,7 +314,8 @@ header {
     align-items: center;
     justify-content: center;
 }
-.principal-laminas{
+
+.principal-laminas {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
 }
@@ -252,7 +344,7 @@ header {
 
 /* -----PRODUCTOS LAMINAS----- */
 .container-laminas {
-    width: 100%;
+    width: 90%;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -264,12 +356,13 @@ header {
     border-radius: 40px;
     box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
     height: 170px;
+    width: auto;
     display: flex;
     margin: 10px;
     text-align: center;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    padding: 10px 15px;
+    padding: 5px 5px;
 }
 
 .number-container {
@@ -282,10 +375,18 @@ header {
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
     width: auto;
     height: auto;
-    padding: 30px;
+    padding: 25px;
 }
-.description-product{
+
+.description-product {
     width: 50%;
+    overflow: auto;
+    word-wrap: break-word;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
 }
 
 .number-product {
@@ -342,7 +443,13 @@ footer {
 }
 
 @media (max-width: 760px) {
+    main{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
 
+    }
     .list-libreria {
         width: 100%;
         height: 200px;
@@ -366,12 +473,13 @@ footer {
         align-items: center;
         justify-content: center;
         display: flex;
-        margin: auto;
+        margin: auto 20px;
         text-align: center;
+        margin-bottom: 50px;
     }
 
     /* SECCION LAMINAS */
-    .principal-laminas{
+    .principal-laminas {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
     }
@@ -387,25 +495,35 @@ footer {
         grid-template-columns: 1fr;
         margin: 5px auto;
     }
-    .list-lamina{
+
+    .list-lamina {
         width: 100%;
         margin: 10px auto;
         height: auto;
         padding: 30px 15px;
     }
-    .principal-laminas{
-        width: 70%;
+
+    .principal-laminas {
+        width: 80%;
         display: grid;
         grid-template-columns: 1fr;
         margin-bottom: 50px;
     }
-    
+    .msj-ready{
+        margin-top: 0px;
+    }
+    #errorBusqueda{
+        margin-top: 0px;
+    }
+
 }
-@media (max-width:370px){
-    .container-laminas{
+
+@media (max-width:370px) {
+    .container-laminas {
         width: 100%;
     }
-    .principal-laminas{
+
+    .principal-laminas {
         width: 80%;
 
     }

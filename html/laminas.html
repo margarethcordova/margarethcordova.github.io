@@ -28,10 +28,11 @@
                     <label for="input">
                         <p>Escribe el tema que desear encontrar:</p>
                     </label>
-                    <input class="search-box" type="text" id="searchInput" name="search">
+                    <input class="search-box" type="text" id="searchResults" name="search">
                 </div>
-                <div class="principal-laminas">
-                    <div class="list-lamina boton" style="background-color:#FFDEDF;" id="searchResults">
+                <div class="principal-laminas" id="laminasResult">
+
+                    <!-- <div class="list-lamina boton" style="background-color:#FFDEDF;" id="searchResults">
                         <div class="number-container">
                             <p class="number-product">01</p>
                         </div>
@@ -39,37 +40,42 @@
                             <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
                             <br>
                             <p class="description">Maryland</p>
+                        </div>                    
+                        <div id="popup">
+                            <p id="close-popup">x</p>
+                            <img id="popup-imagen" class="image-popup" src="" alt="Imagen de la lámina">
                         </div>
+                    </div> --->
+                    <div id="popup" class="img-popup">
+                        <p id="close-popup">x</p>
+                        <img id="popup-imagen" class="image-popup" src="" >
                     </div>
-                    <div class="list-lamina boton" style="background-color:#fff6c4;">
-                        <div class="number-container">
-                            <p class="number-product">01</p>
-                        </div>
-                        <div class="description-product">
-                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                            <br>
-                            <p class="description">Maryland</p>
-                        </div>
+                </div>
+                <div id="msjReady" class="msj-ready">
+                    <img src="../mano.png" alt="img-ready" class="img-ready">
+                    <br>
+                    <br>
+                    <h3>Listo para buscar!</h3>
+                </div>
+                <div id="loader" class="loader" style="display: none;">
+                    <div class="container-loader" class="div-mili" >
+                        <img src="../3.gif" alt="loader" class="img-loader">
+                        <br>
+                        <br>
+                        <h3>Estamos buscando</h3>
                     </div>
-                    <div class="list-lamina boton" style="background-color:#c1ffb0;">
-                        <div class="number-container">
-                            <p class="number-product">01</p>
-                        </div>
-                        <div class="description-product">
-                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
-                            <br>
-                            <p class="description">Maryland</p>
-                        </div>
+                </div>
+                <div id="errorBusqueda" style="display: none;">
+                    <div class="img-error">
+                        <img src="../error.png" alt="" class="img-x" height="150px">
                     </div>
-                    <div class="list-lamina boton" style="background-color:#b6d7ff;">
-                        <div class="number-container">
-                            <p class="number-product">01</p>
-                        </div>
-                        <div class="description-product">
-                            <p class="text-list-principal"><strong>Cultura Paracas</strong></p>
+                    <br>
+                    <div class="text-error">
+                        <h3 class="text-show-error">
+                            Lo sentimos :')</h3>
                             <br>
-                            <p class="description">Maryland</p>
-                        </div>
+                        <h4 style="color: rgb(61, 61, 61);">No se ha encontrado resultados</h4>
+                        
                     </div>
                 </div>
             </div>
@@ -79,8 +85,15 @@
                 <p class="footer-text">&copy; Acoding</p>
             </div>
         </footer>
-        <!-- BUSQUEDA SCRIPT -->
+        <!-- SCRIPT jquery -->
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+        <!-- NUESTRO SCRIPT -->
+        <script src="../js/script.js"></script>
+
+        <!-- ARCHIVO JSON -->
+        <script src="../data/laminas.json"></script>
+
         <!-- AOS SCRIPT -->
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     </div>
