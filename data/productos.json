@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "Colores Acuarelables",
+        "precio": 7.90,
+        "marca": "Artesco",
+        "tipo": "colores",
+        "imagen": "https://i.ibb.co/mv3V6Hc/product1.jpg"
+    },
+    {
+        "nombre": "Colores Intensos",
+        "precio": 7.50,
+        "marca": "Artesco",
+        "tipo": "colores",
+        "imagen": "https://i.ibb.co/3c4qyC5/product2.jpg"
+    },
+    {
+        "nombre": "Ecolapices",
+        "precio": 6.90,
+        "marca": "FaberCastell",
+        "tipo": "colores",
+        "imagen": "https://i.ibb.co/x7Hv0p5/product3.jpg"
+    },
+    {
+        "nombre": "Cola Sintetica",
+        "precio": 1.40,
+        "marca": "David",
+        "tipo": "pegamento",
+        "imagen": "https://i.ibb.co/vJBV44M/product4.jpg"
+    },
+    {
+        "nombre": "Mini cola Sintetica",
+        "precio": 0.70,
+        "marca": "David",
+        "tipo": "pegamento",
+        "imagen": "https://i.ibb.co/2FhVKqD/product5.jpg"
+    },
+    {
+        "nombre": "Goma en barra",
+        "precio": 2.00,
+        "marca": "Artesto",
+        "tipo": "pegamento",
+        "imagen": "https://i.ibb.co/hDsJhVT/product6.png"
+    },
+    {
+        "nombre": "Lapicero",
+        "precio": 3.50,
+        "marca": "Pilot",
+        "tipo": "oficina",
+        "imagen": "https://i.ibb.co/VS786rN/product7.jpg"
+    },
+    {
+        "nombre": "Trillux 035",
+        "precio": 0.90,
+        "marca": "FaberCastell",
+        "tipo": "oficina",
+        "imagen": "https://i.ibb.co/fQmfsmF/product9.jpg"
+    },
+    {
+        "nombre": "Lapicero 060",
+        "precio": 1.50,
+        "marca": "FaberCastell",
+        "tipo": "oficina",
+        "imagen": "https://i.ibb.co/D8y8vXr/product8.jpg"
+    }
+]

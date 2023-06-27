@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado de productos</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/desing.css">
+</head>
+
+<body>
+    <div class="big-container">
+        <header>
+            <div class="name-subheader-laminas">
+                <div class="second">
+                    <p class="name-subheader-title-laminas">Útiles Escolares</p>
+                </div>
+            </div>
+            <a class="return-btn boton" href="../html/libreria.html">
+                <img class="img-return" src="../return.png" alt="regresar">
+            </a>
+        </header>
+        <main>
+            <div class="container-utiles">
+                <div class="busqueda-utiles">
+                    <label for="tipo">Filtrar por tipo:</label>
+                    <select id="tipo">
+                        <option value="todos">Todos</option>
+                        <option value="oficina">Art. Oficina</option>
+                        <option value="pegamento">Pegamento</option>
+                        <option value="colores">Colores</option>
+                        <option value="plumones">Plumones</option>
+                        <i></i>
+                    </select>
+                </div>
+                <div class="result-utiles">
+                    <div id="productos-container"></div>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="footer-acoding">
+                <p class="footer-text">&copy; Acoding</p>
+            </div>
+        </footer>
+
+        <!-- SCRIPT jquery -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <!-- SCRIPT -->
+        <script src="../js/util.js"></script>
+        <script src="../data/productos.json"></script>
+</body>
+
+</html>

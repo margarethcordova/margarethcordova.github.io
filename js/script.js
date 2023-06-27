@@ -97,7 +97,6 @@ $(document).ready(function () {
                 descriptionProduct.append(textListPrincipal, $('<br>'), description);
 
                 var imgPopup = $('<div>', {
-                    class: 'img-popup',
                     id: 'popup'
                 });
 
@@ -132,7 +131,7 @@ $(document).ready(function () {
     // Mostrar ventana emergente con la imagen de la lámina
     function mostrarPopup(imagen) {
         $('#popup-imagen').attr('src', imagen);
-        $('#popup').fadeIn();
+        $('#popup').fadeIn();   
     }
 
     // Cerrar ventana emergente al hacer clic en "x"

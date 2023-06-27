@@ -13,10 +13,13 @@ $(document).ready(function () {
 
         $.each(productos, function (index, producto) {
             var productoHtml = '<div class="producto">' +
-                '<h3>' + producto.nombre + '</h3>' +
-                '<p>Precio: S/.' + producto.precio + '</p>' +
-                '<p>Marca: ' + producto.marca + '</p>' +
-                '<p>Tipo: ' + producto.tipo + '</p>' +
+                '<h3 class="title-product">' + producto.nombre + '</h3>' +
+                '<img class="img-product" src="' + producto.imagen + '" alt="">' +
+                    '<div class="data-product"' +
+                        '<p>Precio: S/.' + producto.precio + '</p>' +
+                        '<p>Marca: ' + producto.marca + '</p>' +
+                        '<p>Tipo: ' + producto.tipo + '</p>' +
+                    '</div>' +
                 '</div>';
 
             $("#productos-container").append(productoHtml);

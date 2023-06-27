@@ -64,27 +64,29 @@ main {
     align-items: center;
     justify-content: center;
     position: absolute;
-    z-index: 9999;
-    width: 50%;
-    height: 40%;
+    z-index: 999999;
+    width: auto;
+    height: auto;
     border-radius: 40px 0 40px 40px;
-    background-color: rgb(153, 170, 196);
+    background: #004b8983;
+    padding: 10px 15px;
 }
 
 #popup>img {
-    height: 150px;
-    padding: 20px 30px;
+    height:250px;
+    padding: 10px;
 }
 
 #close-popup {
     display: flex;
     font-size: 30px;
+    font-weight: bolder;
     text-align: end;
     justify-content: end;
     z-index: 999999;
     color: var(--color-white);
     padding: 0 10px;
-}
+} */
 
 /*ERROR MSJ*/
 #errorBusqueda {
@@ -118,7 +120,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
-main{
+main {
     width: 100%;
     height: 100%;
     display: flex;
@@ -396,6 +398,120 @@ header {
     font-weight: bolder;
 }
 
+/* -----------------------SECTION LIBRERIA - UTILES ESCOLARES---------------------------------- */
+.container-utiles {
+    width: 100%;
+}
+.busqueda-utiles{
+    margin: 15px;
+    margin-bottom: 30px;
+}
+
+.busqueda-utiles select{
+	display: inline-block;
+    font-family: 'Josefin Sans', sans-serif;
+	width: 50%;
+	cursor: pointer;
+  	padding: 7px 10px;
+  	height: 42px;
+  	outline: 0; 
+  	border: 0;
+	border-radius: 0;
+	background: #f0f0f0;
+	color: #000000;
+	font-size: 20px;
+	border:2px solid rgba(0,0,0,0.2);
+    border-radius: 12px;
+    position: relative;
+    transition: all 0.25s ease;
+    align-items: center;
+    justify-content: center;
+}
+ 
+.busqueda-utiles select:hover{
+	background: #b1dbe8;
+}
+ 
+/* 
+Creamos la fecha que aparece a la izquierda del select.
+Realmente este elemento es un cuadrado que sólo tienen
+dos bordes con color y que giramos con transform: rotate(-45deg);
+*/
+.busqueda-utiles i{
+	position: absolute;
+	right: 20px;
+	top: calc(50% - 13px);
+	width: 16px;
+	height: 16px;
+	display: block;
+	border-left:4px solid #241d7e;
+	border-bottom:4px solid #343c85;
+	transform: rotate(-45deg); /* Giramos el cuadrado */
+	transition: all 0.25s ease;
+}
+ 
+.busqueda-utiles:hover i{
+	margin-top: 3px;
+}
+.busqueda-utiles label{
+    font-size: 20px;
+}
+select > option{
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+}
+.result-utiles {
+    display: grid;
+    place-items: center;
+    
+    width: auto;
+    grid-template-rows: minmax(30vh, max-content) minmax;
+}
+
+.result-utiles>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(5, 160px);
+    width: 100%;
+
+}
+#productos-container{
+   width: 100%;
+   gap:  20px 80px;
+   margin-bottom: 70px;
+}
+
+#productos-container .producto {
+    background: var(--color-white);
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 320px;
+    width: 220px;
+}
+.producto>div{
+    margin-top: 15px;
+}
+
+#productos-container .img-product {
+    height: 160px;
+}
+
+.title-product {
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 10px 10px;
+    text-transform: uppercase;
+    color: var(--color-title);
+}
+
 /* -----------footer----------- */
 footer {
     display: flex;
@@ -445,13 +561,14 @@ footer {
 }
 
 @media (max-width: 760px) {
-    main{
+    main {
         width: 100%;
         display: flex;
         align-items: center;
         justify-content: center;
 
     }
+
     .list-libreria {
         width: 100%;
         height: 200px;
@@ -511,10 +628,12 @@ footer {
         grid-template-columns: 1fr;
         margin-bottom: 50px;
     }
-    .msj-ready{
+
+    .msj-ready {
         margin-top: 0px;
     }
-    #errorBusqueda{
+
+    #errorBusqueda {
         margin-top: 0px;
     }
 
