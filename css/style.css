@@ -58,13 +58,15 @@ main {
     background-color: rgba(255, 255, 255, 0.479);
 }
 
-/* IMAGEN POP UP LAMINA
+/* IMAGEN POP UP LAMINA */
 #popup {
     display: none;
+    align-items: center;
+    justify-content: center;
     position: absolute;
     z-index: 9999;
-    width: auto;
-    height: auto;
+    width: 50%;
+    height: 40%;
     border-radius: 40px 0 40px 40px;
     background-color: rgb(153, 170, 196);
 }
@@ -82,7 +84,7 @@ main {
     z-index: 999999;
     color: var(--color-white);
     padding: 0 10px;
-} */
+}
 
 /*ERROR MSJ*/
 #errorBusqueda {
