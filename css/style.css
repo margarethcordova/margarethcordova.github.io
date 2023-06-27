@@ -58,7 +58,7 @@ main {
     background-color: rgba(255, 255, 255, 0.479);
 }
 
-/*IMAGEN POP UP LAMINA*/
+/* IMAGEN POP UP LAMINA
 #popup {
     display: none;
     position: absolute;
@@ -82,7 +82,7 @@ main {
     z-index: 999999;
     color: var(--color-white);
     padding: 0 10px;
-}
+} */
 
 /*ERROR MSJ*/
 #errorBusqueda {

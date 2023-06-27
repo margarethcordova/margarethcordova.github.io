@@ -7,19 +7,19 @@
                     "nombre": "Cultura Paracas",
                     "autor": "Maryland",
                     "numero": 180,
-                    "imagen": "../imagen1.png"
+                    "imagen": "https://i.ibb.co/GnQ7kLw/lamina1.jpg"
                 },
                 {
                     "nombre": "Cultura Mochica",
                     "autor": "Huascaran",
                     "numero": 200,
-                    "imagen": "../2.png"
+                    "imagen": "https://i.ibb.co/cymm0vH/lamina3.jpg"
                 },
                 {
                     "nombre": "Cultura Chavin",
                     "autor": "Maryland",
                     "numero": 95,
-                    "imagen": "../3.png"
+                    "imagen": "https://i.ibb.co/nf6n5d1/lamina2.jpg"
                 }
                 
             ]
@@ -31,13 +31,13 @@
                     "nombre": "Los 10 mandamientos",
                     "autor": "Maryland",
                     "numero": 96,
-                    "imagen": "../3.png"
+                    "imagen": "https://i.ibb.co/GnQ7kLw/lamina1.jpg"
                 },
                 {
-                    "nombre": "Subtema 2.2",
+                    "nombre": "Los milagros de Jesus",
                     "autor": "Maryland",
                     "numero": 546,
-                    "imagen": "../4.png"
+                    "imagen": "https://i.ibb.co/nf6n5d1/lamina2.jpg"
                 }
             ]
         }

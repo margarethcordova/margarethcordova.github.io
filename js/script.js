@@ -65,7 +65,7 @@ $(document).ready(function () {
                     class: 'list-lamina boton',
                     style: 'background-color: ' + colores[indiceAleatorio],
                     click: function () {
-                        mostrarPopup(tema.imagen);
+                        mostrarPopup(imagen);
                     }
                 });
 
@@ -96,22 +96,36 @@ $(document).ready(function () {
 
                 descriptionProduct.append(textListPrincipal, $('<br>'), description);
 
-                var imgPopup = $('<div>', {
-                    class: 'img-popup',
-                    id: 'popup'
-                });
+                // var imgPopup = $('<div>', {
+                //     id: 'popup'
+                // });
 
-                var closePopup = $('<p>', {
-                    id: 'close-popup',
-                    text: 'x'
-                });
+                // var closePopup = $('<p>', {
+                //     id: 'close-popup',
+                //     text: 'x'
+                // });
 
-                var img = $('<img>', {
-                    src: tema.imagen,
-                    alt: 'Imagen'
-                });
+                // var img = $('<img>', {
+                //     id: 'popup-imagen',
+                //     class: 'image-popup',
+                //     src: tema.imagen
+                // });
 
-                imgPopup.append(closePopup, img);
+                // imgPopup.append(closePopup, img);
+                // Obtener la URL de la imagen desde el JSON (supongamos que está en la propiedad 'imagen')
+                var imageUrl = tema.imagen;
+
+                // Establecer la URL de la imagen en el atributo 'src' del elemento de imagen
+                $("#popup-imagen").attr("src", imageUrl);
+
+                // Mostrar el elemento de imagen
+                $("#popup-imagen").show();
+            });
+
+            // Manejar el evento de clic para cerrar el popup
+            $("#close-popup").click(function () {
+                // Ocultar el elemento de imagen
+                $("#popup-imagen").hide();
 
                 divLamina.append(numberContainer, descriptionProduct, imgPopup);
                 resultadosContainer.append(divLamina);
