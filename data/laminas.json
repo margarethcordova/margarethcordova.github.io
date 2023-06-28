@@ -4,41 +4,184 @@
             "curso": "historia del peru",
             "temas": [
                 {
-                    "nombre": "Cultura Paracas",
-                    "autor": "Maryland",
-                    "numero": 180,
-                    "imagen": "https://i.ibb.co/GnQ7kLw/lamina1.jpg"
+                    "nombre": "Dia de la Independencia",
+                    "autor":"Fiorella",
+                    "numero": 3,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Cultura Mochica",
-                    "autor": "Huascaran",
-                    "numero": 200,
-                    "imagen": "https://i.ibb.co/cymm0vH/lamina3.jpg"
+                    "nombre": "Simbolos de la Nación",
+                    "autor": "Fiorella",
+                    "numero": 4,
+                    "imagen": "https://i.ibb.co/VQSXQwh/04.jpg"  
+                },
+                {
+                    "nombre": "Galeria de Héroes",
+                    "autor": "Fiorella",
+                    "numero": 7,
+                    "imagen": "https://i.ibb.co/Z8KsBb1/07.jpg"
+                },
+                {
+                    "nombre": "Los viajes de Colón",
+                    "autor": "Fiorella",
+                    "numero": 8,
+                    "imagen": "https://i.ibb.co/RC9BxYb/08.jpg"
+                },
+                {
+                    "nombre": "Combate de Angamos",
+                    "autor": "Fiorella",
+                    "numero": 12,
+                    "imagen": "https://i.ibb.co/XZK5HHJ/12.jpg"
+                },                
+                {
+                    "nombre": "Batalla de Arica",
+                    "autor": "Fiorella",
+                    "numero": 15,
+                    "imagen": "https://i.ibb.co/yFJn0gY/15.jpg"
+                },
+                {
+                    "nombre": "Simon Bolivar",
+                    "autor": "Fiorella",
+                    "numero": 23,
+                    "imagen": "https://i.ibb.co/wh4WLHV/23.jpg"
                 },
                 {
                     "nombre": "Cultura Chavin",
-                    "autor": "Maryland",
-                    "numero": 95,
-                    "imagen": "https://i.ibb.co/nf6n5d1/lamina2.jpg"
+                    "autor": "Fiorella",
+                    "numero": 24,
+                    "imagen": "https://i.ibb.co/Rczwym3/24.jpg"
+                },                
+                {
+                    "nombre": "Cultura Mochica",
+                    "autor": "Fiorella",
+                    "numero": 25,
+                    "imagen": "https://i.ibb.co/ynpLGgb/25.jpg"
                 }
-                
+            ]
+        },
+        {
+            "curso": "civica",
+            "temas": [
+                {
+                    "nombre": "Dia del trabajador",
+                    "autor": "Fiorella",
+                    "numero": 13,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Dia de la madre",
+                    "autor": "Fiorella",
+                    "numero": 14,
+                    "imagen": "https://i.ibb.co/ZSnG53W/14.jpg"
+                },
+                {
+                    "nombre": "Dia del padre",
+                    "autor": "Fiorella",
+                    "numero": 20,
+                    "imagen": "https://i.ibb.co/KK8mzXr/20.jpg"
+                },
+                {
+                    "nombre": "Dia del campesino",
+                    "autor": "Fiorella",
+                    "numero": 21,
+                    "imagen": "https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Dia del maestro",
+                    "autor": "Fiorella",
+                    "numero": 22,
+                    "imagen": "https://i.ibb.co/QYwNVzn/22.jpg"
+                }
             ]
         },
         {
             "curso": "religion",
             "temas": [
                 {
-                    "nombre": "Los 10 mandamientos",
-                    "autor": "Maryland",
-                    "numero": 96,
-                    "imagen": "https://i.ibb.co/GnQ7kLw/lamina1.jpg"
+                    "nombre": "El Via Crucis",
+                    "autor": "Fiorella",
+                    "numero": 1,
+                    "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
                 },
                 {
-                    "nombre": "Los milagros de Jesus",
-                    "autor": "Maryland",
-                    "numero": 546,
-                    "imagen": "https://i.ibb.co/nf6n5d1/lamina2.jpg"
+                    "nombre": "Santa Rosa de Lima",
+                    "autor": "Fiorella",
+                    "numero": 9,
+                    "imagen": "https://i.ibb.co/5LnSm60/09.jpg"
+                },
+                {
+                    "nombre": "Señor de los milagros",
+                    "autor": "Fiorella",
+                    "numero": 10,
+                    "imagen": "https://i.ibb.co/yp2B3Vb/10.jpg"
                 }
+            ]
+        },
+        {
+            "curso": "educacion física",
+            "temas": [
+                {
+                    "nombre": "Los Deportes",
+                    "autor": "Fiorella",
+                    "numero": 5,
+                    "imagen": "https://i.ibb.co/YLD6gJg/05.jpg"
+                },
+                {
+                    "nombre": "",
+                    "autor": "Fiorella",
+                    "numero": 1,
+                    "imagen": ""
+                },
+                {
+                    "nombre": "",
+                    "autor": "Fiorella",
+                    "numero": 1,
+                    "imagen": ""
+                }
+
+            ]
+        },
+        {
+            "curso": "ciencia",
+            "temas": [
+                {
+                    "nombre": "Animales Domésticos",
+                    "autor": "Fiorella",
+                    "numero": 6,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Animales Mamiferos",
+                    "autor": "Fiorella",
+                    "numero": 11,
+                    "imagen": "https://i.ibb.co/ZR9Dkf1/11.jpg"
+                },
+                {
+                    "nombre": "Sistema Muscular",
+                    "autor": "Fiorella",
+                    "numero": 16,
+                    "imagen": "https://i.ibb.co/QppNLnh/16.jpg"
+                },
+                {
+                    "nombre": "Sistema Oseo",
+                    "autor": "Fiorella",
+                    "numero": 17,
+                    "imagen": "https://i.ibb.co/dtCnV0s/17.jpg"
+                },
+                {
+                    "nombre": "Aparato Respiratorio",
+                    "autor": "Fiorella",
+                    "numero": 18,
+                    "imagen": "https://i.ibb.co/CHj7P49/18.jpg"
+                },
+                {
+                    "nombre": "Aparato Digestivo",
+                    "autor": "Fiorella",
+                    "numero": 19,
+                    "imagen": "https://i.ibb.co/MVR201p/19.jpg"
+                }
+                
+                
             ]
         }
     ]
