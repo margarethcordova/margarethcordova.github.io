@@ -129,15 +129,15 @@ $(document).ready(function () {
     }
 
     // Mostrar ventana emergente con la imagen de la lámina
-    function mostrarPopup(imagen) {
-        $('#popup-imagen').attr('src', imagen);
-        $('#popup').fadeIn();   
-    }
+    // function mostrarPopup(imagen) {
+    //     $('#popup-imagen').attr('src', imagen);
+    //     $('#popup').fadeIn();   
+    // }
 
-    // Cerrar ventana emergente al hacer clic en "x"
-    $(document).on('click', '#close-popup', function () {
-        $('#popup').fadeOut();
-    });
+    // // Cerrar ventana emergente al hacer clic en "x"
+    // $(document).on('click', '#close-popup', function () {
+    //     $('#popup').fadeOut();
+    // });
 
     // Limpiar los resultados y mostrar "Listo para buscar"
     function limpiarResultados() {
