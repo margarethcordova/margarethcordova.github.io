@@ -1,7 +1,7 @@
 {
     "laminas": [
         {
-            "curso": "historia del peru",
+            "curso": "historia",
             "temas": [
                 {
                     "nombre": "Dia de la Independencia",
@@ -26,6 +26,18 @@
                     "autor": "Fiorella",
                     "numero": 8,
                     "imagen": "https://i.ibb.co/RC9BxYb/08.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de África",
+                    "autor": "Maryland",
+                    "numero": 208,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de Oceanía",
+                    "autor": "Maryland",
+                    "numero": 209,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
                     "nombre": "Combate de Angamos",
@@ -56,7 +68,572 @@
                     "autor": "Fiorella",
                     "numero": 25,
                     "imagen": "https://i.ibb.co/ynpLGgb/25.jpg"
+                },
+                {
+                    "nombre": "Los viajes de Pizarro",
+                    "autor": "Fiorella",
+                    "numero": 88,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La leyenda de Manco capac y Mama ocllo",
+                    "autor": "Fiorella",
+                    "numero": 95,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-regional de Perú",
+                    "autor": "Fiorella",
+                    "numero": 97,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Presidentes peruanos I",
+                    "autor": "Fiorella",
+                    "numero": 101,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Presidentes peruanos II",
+                    "autor": "Fiorella",
+                    "numero": 102,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Presidentes peruanos III",
+                    "autor": "Fiorella",
+                    "numero": 103,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Presidentes peruanos IV",
+                    "autor": "Fiorella",
+                    "numero": 104,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Presidentes peruanos V",
+                    "autor": "Fiorella",
+                    "numero": 105,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Rebelion de Tupac Amaru II",
+                    "autor": "Fiorella",
+                    "numero": 110,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Hermanos Ayar",
+                    "autor": "Fiorella",
+                    "numero": 137,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Amazonas",
+                    "autor": "Fiorella",
+                    "numero": 138,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Ancash",
+                    "autor": "Fiorella",
+                    "numero": 139,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Apurimac",
+                    "autor": "Fiorella",
+                    "numero": 140,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Arequipa",
+                    "autor": "Fiorella",
+                    "numero": 141,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Ayacucho",
+                    "autor": "Fiorella",
+                    "numero": 142,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Cajamarca",
+                    "autor": "Fiorella",
+                    "numero": 143,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Cuzco",
+                    "autor": "Fiorella",
+                    "numero": 144,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Huanuco",
+                    "autor": "Fiorella",
+                    "numero": 146,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Ica",
+                    "autor": "Fiorella",
+                    "numero": 147,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Junin",
+                    "autor": "Fiorella",
+                    "numero": 148,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento La Libertad",
+                    "autor": "Fiorella",
+                    "numero": 149,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Lima",
+                    "autor": "Fiorella",
+                    "numero": 150,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Loreto",
+                    "autor": "Fiorella",
+                    "numero": 151,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Lambayeque",
+                    "autor": "Fiorella",
+                    "numero": 153,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Piura",
+                    "autor": "Fiorella",
+                    "numero": 155,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Puno",
+                    "autor": "Fiorella",
+                    "numero": 156,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Moquegua",
+                    "autor": "Fiorella",
+                    "numero": 157,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Tacna",
+                    "autor": "Fiorella",
+                    "numero": 158,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento San Martin",
+                    "autor": "Fiorella",
+                    "numero": 160,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento Ucayali",
+                    "autor": "Fiorella",
+                    "numero": 161,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Teoria de poblamiento Americano",
+                    "autor": "Fiorella",
+                    "numero": 163,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El tahuantinsuyo",
+                    "autor": "Fiorella",
+                    "numero": 165,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Movimientos de la Tierra",
+                    "autor": "Fiorella",
+                    "numero": 170,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico del Perú",
+                    "autor": "Fiorella",
+                    "numero": 171,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Callao",
+                    "autor": "Maryland",
+                    "numero": 375,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Imperio Incaico",
+                    "autor": "Maryland",
+                    "numero": 276,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Organizacion Social Inca",
+                    "autor": "Maryland",
+                    "numero": 277,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Lima",
+                    "autor": "Maryland",
+                    "numero": 351,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Cusco",
+                    "autor": "Maryland",
+                    "numero": 352,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Puno",
+                    "autor": "Maryland",
+                    "numero": 353,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Lambayeque",
+                    "autor": "Maryland",
+                    "numero": 354,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Cajamarca",
+                    "autor": "Maryland",
+                    "numero": 355,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Loreto",
+                    "autor": "Maryland",
+                    "numero": 356,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Junin",
+                    "autor": "Maryland",
+                    "numero": 357,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Ayacucho",
+                    "autor": "Maryland",
+                    "numero": 358,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Piura",
+                    "autor": "Maryland",
+                    "numero": 359,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Ica",
+                    "autor": "Maryland",
+                    "numero": 360,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Ancash",
+                    "autor": "Maryland",
+                    "numero": 361,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de La Libertad",
+                    "autor": "Maryland",
+                    "numero": 362,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Moquegua",
+                    "autor": "Maryland",
+                    "numero": 363,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Huancavelica",
+                    "autor": "Maryland",
+                    "numero": 364,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Arequipa",
+                    "autor": "Maryland",
+                    "numero": 365,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Tacna",
+                    "autor": "Maryland",
+                    "numero": 366,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Ucayali",
+                    "autor": "Maryland",
+                    "numero": 367,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Amazonas",
+                    "autor": "Maryland",
+                    "numero": 368,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de San Martin",
+                    "autor": "Maryland",
+                    "numero": 369,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Huanuco",
+                    "autor": "Maryland",
+                    "numero": 370,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Madre de Dios",
+                    "autor": "Maryland",
+                    "numero": 371,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Apurimac",
+                    "autor": "Maryland",
+                    "numero": 372,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Pasco",
+                    "autor": "Maryland",
+                    "numero": 373,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Departamento de Tumbes",
+                    "autor": "Maryland",
+                    "numero": 374,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "14 Incas",
+                    "autor": "Maryland",
+                    "numero": 30,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Chimú",
+                    "autor": "Maryland",
+                    "numero": 23,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Recuay",
+                    "autor": "Maryland",
+                    "numero": 248,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Vertientes Hidrograficas",
+                    "autor": "Maryland",
+                    "numero": 216,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Vicus",
+                    "autor": "Maryland",
+                    "numero": 247,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de Europa",
+                    "autor": "Maryland",
+                    "numero": 206,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de Asia",
+                    "autor": "Maryland",
+                    "numero": 207,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Salinar - Viru",
+                    "autor": "Maryland",
+                    "numero": 829,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Proceres de la Independencia",
+                    "autor": "Maryland",
+                    "numero": 32,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Precursores de la Independencia",
+                    "autor": "Maryland",
+                    "numero": 31,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Lima",
+                    "autor": "Maryland",
+                    "numero": 506,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Leyes",
+                    "autor": "Maryland",
+                    "numero": 784,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mar Peruano",
+                    "autor": "Maryland",
+                    "numero": 759,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Chincha",
+                    "autor": "Maryland",
+                    "numero": 26,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Chanchay",
+                    "autor": "Maryland",
+                    "numero": 25,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Chanca",
+                    "autor": "Maryland",
+                    "numero": 509,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Paracas: Textileria",
+                    "autor": "Maryland",
+                    "numero": 91,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa Vial e Hidrografico",
+                    "autor": "Maryland",
+                    "numero": 173,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de America Sur",
+                    "autor": "Maryland",
+                    "numero": 248,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La leyenda de Manco capac y Mama ocllo",
+                    "autor": "Maryland",
+                    "numero": 731,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Hermanos Ayar",
+                    "autor": "Maryland",
+                    "numero": 732,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Expansión",
+                    "autor": "Maryland",
+                    "numero": 248,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Organización Politica",
+                    "autor": "Maryland",
+                    "numero": 248,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Educación",
+                    "autor": "Maryland",
+                    "numero": 753,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Organización Laboral",
+                    "autor": "Maryland",
+                    "numero": 752,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo: Religión",
+                    "autor": "Maryland",
+                    "numero": 754,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Vestimenta Incaica",
+                    "autor": "Maryland",
+                    "numero": 755,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Postres Tipicos peruanos",
+                    "autor": "Maryland",
+                    "numero": 568,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Andes del Perú",
+                    "autor": "Maryland",
+                    "numero": 606,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Danzas Tipicas peruanas",
+                    "autor": "Maryland",
+                    "numero": 572,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Planisferio",
+                    "autor": "Maryland",
+                    "numero": 602,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de America Central",
+                    "autor": "Maryland",
+                    "numero": 175,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapa politico-fisico de America Norte",
+                    "autor": "Maryland",
+                    "numero": 176,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 }
+                
             ]
         },
         {
@@ -91,6 +668,207 @@
                     "autor": "Fiorella",
                     "numero": 22,
                     "imagen": "https://i.ibb.co/QYwNVzn/22.jpg"
+                },
+                {
+                    "nombre": "Derechos del niño",
+                    "autor": "Fiorella",
+                    "numero": 78,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Precursores de la Independencia",
+                    "autor": "Fiorella",
+                    "numero": 164,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Dia de la Primavera",
+                    "autor": "Fiorella",
+                    "numero": 169,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Ciclo hidrologico del agua",
+                    "autor": "Fiorella",
+                    "numero": 168,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Derechos Humanos",
+                    "autor": "Fiorella",
+                    "numero": 79,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Platos Tipicos del Perú",
+                    "autor": "Fiorella",
+                    "numero": 82,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Trajes Tipicos del Perú",
+                    "autor": "Fiorella",
+                    "numero": 83,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Batalla de Ayacucho",
+                    "autor": "Fiorella",
+                    "numero": 84,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Danzas Tipicas I",
+                    "autor": "Fiorella",
+                    "numero": 92,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Dia del idioma Español",
+                    "autor": "Fiorella",
+                    "numero": 96,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Jose Abelardo Quiñones",
+                    "autor": "Fiorella",
+                    "numero": 99,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Escritores peruanos",
+                    "autor": "Fiorella",
+                    "numero": 114,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Calentamiento Global",
+                    "autor": "Maryland",
+                    "numero": 604,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La Cruz Roja",
+                    "autor": "Fiorella",
+                    "numero": 120,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Maria Parado Bellido",
+                    "autor": "Fiorella",
+                    "numero": 121,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Micaela Bastidas",
+                    "autor": "Fiorella",
+                    "numero": 122,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Animales Autoctonos",
+                    "autor": "Fiorella",
+                    "numero": 125,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El sueño de San Martin",
+                    "autor": "Fiorella",
+                    "numero": 127,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Valores Morales",
+                    "autor": "Fiorella",
+                    "numero": 134,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                }
+            ]
+        },
+        {
+            "curso": "comunicacion",
+            "temas": [
+                {
+                    "nombre": "Medios de Comunicacion",
+                    "autor": "Fiorella",
+                    "numero": 77,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Romeo y Julieta",
+                    "autor": "Maryland",
+                    "numero": 432,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La vida es Sueño",
+                    "autor": "Maryland",
+                    "numero": 438,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Edipo Rey",
+                    "autor": "Maryland",
+                    "numero": 493,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cantar de Mio Cid",
+                    "autor": "Maryland",
+                    "numero": 494,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Abecedario",
+                    "autor": "Fiorella",
+                    "numero": 90,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },                {
+                    "nombre": "Tradiciones Peruanas",
+                    "autor": "Maryland",
+                    "numero": 348,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },                {
+                    "nombre": "Ña Catita",
+                    "autor": "Maryland",
+                    "numero": 349,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Paco Yunque",
+                    "autor": "Maryland",
+                    "numero": 257,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Fuente Ovejuna",
+                    "autor": "Maryland",
+                    "numero": 299,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Ollantay",
+                    "autor": "Maryland",
+                    "numero": 394,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Comentarios Reales",
+                    "autor": "Maryland",
+                    "numero": 495,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La Iliada",
+                    "autor": "Maryland",
+                    "numero": 490,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La Odisea",
+                    "autor": "Maryland",
+                    "numero": 491,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 }
             ]
         },
@@ -104,6 +882,12 @@
                     "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
                 },
                 {
+                    "nombre": "La ultima cena",
+                    "autor": "Maryland",
+                    "numero": 551,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
                     "nombre": "Santa Rosa de Lima",
                     "autor": "Fiorella",
                     "numero": 9,
@@ -114,11 +898,113 @@
                     "autor": "Fiorella",
                     "numero": 10,
                     "imagen": "https://i.ibb.co/yp2B3Vb/10.jpg"
+                },
+                {
+                    "nombre": "Los sacramentos",
+                    "autor": "Fiorella",
+                    "numero": 111,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El papa y el vaticano",
+                    "autor": "Fiorella",
+                    "numero": 112,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Diez Mandamientos",
+                    "autor": "Fiorella",
+                    "numero": 128,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Las siete palabras de Cristo",
+                    "autor": "Fiorella",
+                    "numero": 129,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Virgen de Fatima",
+                    "autor": "Maryland",
+                    "numero": 379,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La creacion del Mundo",
+                    "autor": "Fiorella",
+                    "numero": 166,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Sagradas imágenes",
+                    "autor": "Fiorella",
+                    "numero": 172,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Salve",
+                    "autor": "Maryland",
+                    "numero": 730,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Ave Maria",
+                    "autor": "Maryland",
+                    "numero": 728,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Credo",
+                    "autor": "Maryland",
+                    "numero": 729,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "David y Goliat",
+                    "autor": "Maryland",
+                    "numero": 726,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Padre Nuestro",
+                    "autor": "Maryland",
+                    "numero": 727,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "San Pedro y San Pablo",
+                    "autor": "Maryland",
+                    "numero": 38,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Santos",
+                    "autor": "Fiorella",
+                    "numero": 173,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Buen Samaritano",
+                    "autor": "Maryland",
+                    "numero": 835,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "San Francisco de Asis",
+                    "autor": "Maryland",
+                    "numero": 911,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Canonizacion Juan pablo II",
+                    "autor": "Maryland",
+                    "numero": 912,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 }
             ]
         },
         {
-            "curso": "educacion física",
+            "curso": "Recreacional",
             "temas": [
                 {
                     "nombre": "Los Deportes",
@@ -127,16 +1013,46 @@
                     "imagen": "https://i.ibb.co/YLD6gJg/05.jpg"
                 },
                 {
-                    "nombre": "",
+                    "nombre": "Instrumentos Musicales I",
                     "autor": "Fiorella",
-                    "numero": 1,
+                    "numero": 86,
                     "imagen": ""
                 },
                 {
-                    "nombre": "",
+                    "nombre": "Instrumentos Musicales II",
                     "autor": "Fiorella",
-                    "numero": 1,
+                    "numero": 87,
                     "imagen": ""
+                },
+                {
+                    "nombre": "Instrumentos Musicales III",
+                    "autor": "Fiorella",
+                    "numero": 85,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Futbol",
+                    "autor": "Fiorella",
+                    "numero": 106,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Basketbol",
+                    "autor": "Fiorella",
+                    "numero": 107,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El voleibol",
+                    "autor": "Fiorella",
+                    "numero": 108,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Atletismo",
+                    "autor": "Fiorella",
+                    "numero": 109,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 }
 
             ]
@@ -163,6 +1079,30 @@
                     "imagen": "https://i.ibb.co/QppNLnh/16.jpg"
                 },
                 {
+                    "nombre": "Los Poriferos o Esponjas",
+                    "autor": "Maryland",
+                    "numero": 910,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Cnidarios o Celenterios",
+                    "autor": "Maryland",
+                    "numero": 909,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Clases de Computadora",
+                    "autor": "Maryland",
+                    "numero": 697,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Ciclo Metamorfosis",
+                    "autor": "Maryland",
+                    "numero": 739,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
                     "nombre": "Sistema Oseo",
                     "autor": "Fiorella",
                     "numero": 17,
@@ -179,9 +1119,163 @@
                     "autor": "Fiorella",
                     "numero": 19,
                     "imagen": "https://i.ibb.co/MVR201p/19.jpg"
+                },
+                {
+                    "nombre": "La Computadora",
+                    "autor": "Fiorella",
+                    "numero": 76,
+                    "imagen": "https://i.ibb.co/MVR201p/19.jpg"
+                },
+                {
+                    "nombre": "Historia de la Computadora",
+                    "autor": "Maryland",
+                    "numero": 283,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Mapamundi Politico",
+                    "autor": "Fiorella",
+                    "numero": 80,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Las Vitaminas",
+                    "autor": "Fiorella",
+                    "numero": 81,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La gestación",
+                    "autor": "Fiorella",
+                    "numero": 89,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "La contaminación",
+                    "autor": "Fiorella",
+                    "numero": 94,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Plantas Industriales",
+                    "autor": "Fiorella",
+                    "numero": 93,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tabla Periodica",
+                    "autor": "Fiorella",
+                    "numero": 98,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Animales Crustaceos",
+                    "autor": "Fiorella",
+                    "numero": 100,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Celula Vegetal y Animal",
+                    "autor": "Fiorella",
+                    "numero": 113,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "ETS",
+                    "autor": "Fiorella",
+                    "numero": 115,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Metodos Anticonceptivos",
+                    "autor": "Fiorella",
+                    "numero": 116,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Productos agricolas - Costa",
+                    "autor": "Fiorella",
+                    "numero": 174,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Productos Agricolas - Sierra",
+                    "autor": "Fiorella",
+                    "numero": 175,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Aves I",
+                    "autor": "Fiorella",
+                    "numero": 117,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Aves II",
+                    "autor": "Fiorella",
+                    "numero": 118,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Aves III",
+                    "autor": "Fiorella",
+                    "numero": 119,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Seres vivos",
+                    "autor": "Fiorella",
+                    "numero": 123,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Moluscos",
+                    "autor": "Fiorella",
+                    "numero": 124,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Etapas de la Vida",
+                    "autor": "Fiorella",
+                    "numero": 126,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Animales Mamiferos I",
+                    "autor": "Fiorella",
+                    "numero": 130,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Animales Mamiferos II",
+                    "autor": "Fiorella",
+                    "numero": 131,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Desastres Naturales",
+                    "autor": "Fiorella",
+                    "numero": 133,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Las Constelaciones",
+                    "autor": "Fiorella",
+                    "numero": 132,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Vertebrados e Invertebrados",
+                    "autor": "Fiorella",
+                    "numero": 135,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Fenomenos atmosfericos",
+                    "autor": "Fiorella",
+                    "numero": 136,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 }
-                
-                
             ]
         }
     ]

@@ -113,7 +113,7 @@ $(document).ready(function () {
 
                 imgPopup.append(closePopup, img);
 
-                divLamina.append(numberContainer, descriptionProduct, imgPopup);
+                divLamina.append(numberContainer, descriptionProduct);
                 resultadosContainer.append(divLamina);
             });
 
