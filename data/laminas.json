@@ -4,9 +4,87 @@
             "curso": "historia",
             "temas": [
                 {
+                    "nombre": "Guerra Fria",
+                    "autor":"Fiorella",
+                    "numero": 607,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Dia de la Independencia",
                     "autor":"Fiorella",
                     "numero": 3,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Primeros pobladores del Perú",
+                    "autor":"Fiorella",
+                    "numero": 597,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Primer gobierno Peruano",
+                    "autor":"Fiorella",
+                    "numero": 593,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El señor Sipan",
+                    "autor":"Fiorella",
+                    "numero": 579,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Platos tipicos de la Costa",
+                    "autor":"Fiorella",
+                    "numero": 581,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dulces y postres tipicos del Peru",
+                    "autor":"Fiorella",
+                    "numero": 585,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Issac Newton",
+                    "autor":"Fiorella",
+                    "numero": 244,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Paloetico",
+                    "autor":"Fiorella",
+                    "numero": 241,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Neolitico",
+                    "autor":"Fiorella",
+                    "numero": 242,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Fisico de Asia",
+                    "autor":"Fiorella",
+                    "numero": 237,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Mapa politicode Europa",
+                    "autor":"Fiorella",
+                    "numero": 238,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Fisico de Oceania",
+                    "autor":"Fiorella",
+                    "numero": 239,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Fisico Africa",
+                    "autor":"Fiorella",
+                    "numero": 236,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
@@ -646,6 +724,72 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Dia mundial de os derechos del consumidor",
+                    "autor":"Fiorella",
+                    "numero": 604,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Registro nacional de identificacion y esatdo civil",
+                    "autor":"Fiorella",
+                    "numero": 605,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia internacional de las erradiaciones del trabajo infantil",
+                    "autor":"Fiorella",
+                    "numero": 600,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia internacional de la lucha contra el uso indebido y el ilitico de drogas",
+                    "autor":"Fiorella",
+                    "numero": 601,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia internacional de la biblioteca escolar",
+                    "autor":"Fiorella",
+                    "numero": 602,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia de la enfermeria",
+                    "autor":"Fiorella",
+                    "numero": 591,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia del anciano",
+                    "autor":"Fiorella",
+                    "numero": 592,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia de la alimentación",
+                    "autor":"Fiorella",
+                    "numero": 589,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia de las Telecomunicaciones",
+                    "autor":"Fiorella",
+                    "numero": 586,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia Mundial del Agua",
+                    "autor": "Fiorella",
+                    "numero": 13,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Dia Mundial de la salud",
+                    "autor": "Fiorella",
+                    "numero": 234,
+                    "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
                     "nombre": "Dia de la madre",
                     "autor": "Fiorella",
                     "numero": 14,
@@ -882,6 +1026,30 @@
                     "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
                 },
                 {
+                    "nombre": "La santisima trinidad",
+                    "autor": "Fiorella",
+                    "numero": 249,
+                    "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
+                },
+                {
+                    "nombre": "Anunciacion de María",
+                    "autor": "Fiorella",
+                    "numero": 250,
+                    "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
+                },
+                {
+                    "nombre": "Obras de misericordia",
+                    "autor": "Fiorella",
+                    "numero": 229,
+                    "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
+                },
+                {
+                    "nombre": "Las Bienaventuranzas",
+                    "autor": "Fiorella",
+                    "numero": 230,
+                    "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
+                },
+                {
                     "nombre": "La ultima cena",
                     "autor": "Maryland",
                     "numero": 551,
@@ -1066,6 +1234,103 @@
                     "numero": 6,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
                 },
+                {
+                    "nombre": "Enfermedad de la tercera edad",
+                    "autor":"Fiorella",
+                    "numero": 603,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El pandillage",
+                    "autor":"Fiorella",
+                    "numero": 594,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Seguridad vial",
+                    "autor":"Fiorella",
+                    "numero": 595,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El calor",
+                    "autor":"Fiorella",
+                    "numero": 596,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El parto",
+                    "autor":"Fiorella",
+                    "numero": 590,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Accidentes geograficos",
+                    "autor": "Fiorella",
+                    "numero": 247,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Mar Peruano-200 mlls",
+                    "autor": "Fiorella",
+                    "numero": 248,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los ecsistemas",
+                    "autor": "Fiorella",
+                    "numero": 251,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Las estaciones",
+                    "autor": "Fiorella",
+                    "numero": 245,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los climas",
+                    "autor": "Fiorella",
+                    "numero": 246,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Teoria de la relatividad",
+                    "autor": "Fiorella",
+                    "numero": 233,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Legumbres",
+                    "autor": "Fiorella",
+                    "numero": 232,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La semilla",
+                    "autor": "Fiorella",
+                    "numero": 240,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Hortalizas",
+                    "autor": "Fiorsella",
+                    "numero": 235,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Usos de la Tierra",
+                    "autor": "Fiorella",
+                    "numero": 227,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Exportaciones del Perú",
+                    "autor": "Fiorella",
+                    "numero": 228,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                
                 {
                     "nombre": "Animales Mamiferos",
                     "autor": "Fiorella",
@@ -1265,10 +1530,28 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Animales acuaticos",
+                    "autor":"Fiorella",
+                    "numero": 587,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Vertebrados e Invertebrados",
                     "autor": "Fiorella",
                     "numero": 135,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Agujeros negros",
+                    "autor":"Fiorella",
+                    "numero": 598,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las hormonas",
+                    "autor":"Fiorella",
+                    "numero": 599,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Fenomenos atmosfericos",
