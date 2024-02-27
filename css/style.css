@@ -209,7 +209,7 @@ header {
 }
 
 .text-list-principal {
-    font-size: 35px;
+    font-size: 25px;
     text-decoration: none;
     color: var(--color-black);
 }
@@ -291,7 +291,7 @@ header {
 }
 
 .text-list-principal {
-    font-size: 25px;
+    font-size: 20px;
     text-decoration: none;
     color: var(--color-black);
 }
@@ -336,10 +336,11 @@ header {
 }
 
 .search-box {
-    padding: 5px 10px;
+    padding: 10px 20px;
     border: 1px solid #666666;
     border-radius: 20px;
     font-size: 16px;
+    font-family: 'Josefin sans';
     width: 70%;
     margin: 10px;
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
@@ -372,6 +373,7 @@ header {
     justify-content: space-evenly;
     align-items: center;
     padding: 5px 5px;
+    word-break:break-word;
 }
 
 .number-container {
@@ -382,9 +384,8 @@ header {
     border-radius: 50%;
     background-color: var(--color-white);
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-    width: auto;
-    height: auto;
-    padding: 25px;
+    width: 30%;
+    height: 50%;
 }
 
 .description-product {
@@ -399,7 +400,7 @@ header {
 }
 
 .number-product {
-    font-size: 27px;
+    font-size: 25px;
     font-weight: bolder;
 }
 
@@ -545,6 +546,19 @@ footer {
 }
 
 /*--------------------RESPONSIVE--------------------*/
+@media (max-width: 990px){
+    .number-container {
+        font-size: 15px;
+        width: 70px;
+        height: 70px;
+    }
+    .principal-laminas {
+        margin: 10px 40px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        /* Dos columnas con tamaño flexible */
+    }
+}
 @media (max-width: 760px) {
     .container {
         margin: 0 0;
@@ -588,7 +602,7 @@ footer {
     }
 
     .text-list-principal {
-        font-size: 23px;
+        font-size: 20px;
     }
 
     .container-laminas {
@@ -606,6 +620,12 @@ footer {
     .principal-laminas {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .number-container {
+        font-size: 15px;
+        width: 80px;
+        height: 80px;
     }
 }
 
@@ -641,7 +661,11 @@ footer {
     #errorBusqueda {
         margin-top: 0px;
     }
-
+    .number-container {
+        font-size: 15px;
+        width: 70px;
+        height: 70px;
+    }
 }
 
 @media (max-width:370px) {
