@@ -286,6 +286,7 @@ header {
     box-sizing: border-box;
     align-items: center;
     text-align: center;
+    text-decoration-line: none;
     justify-content: center;
     height: 450px;
 }

@@ -16,6 +16,12 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
+                    "nombre": "Cultura Inca",
+                    "autor":"Maryland",
+                    "numero": 27,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Primeros pobladores del Perú",
                     "autor":"Fiorella",
                     "numero": 597,
@@ -52,37 +58,37 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Paloetico",
+                    "nombre": "Paleolítico",
                     "autor":"Fiorella",
                     "numero": 241,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Neolitico",
+                    "nombre": "Neolítico",
                     "autor":"Fiorella",
                     "numero": 242,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Fisico de Asia",
+                    "nombre": "Mapa Fisico de Asia",
                     "autor":"Fiorella",
                     "numero": 237,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Mapa politicode Europa",
+                    "nombre": "Mapa politico de Europa",
                     "autor":"Fiorella",
                     "numero": 238,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Fisico de Oceania",
+                    "nombre": "Mapa Fisico de Oceania",
                     "autor":"Fiorella",
                     "numero": 239,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Fisico Africa",
+                    "nombre": "Mapa Fisico de Africa",
                     "autor":"Fiorella",
                     "numero": 236,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
@@ -148,6 +154,72 @@
                     "imagen": "https://i.ibb.co/ynpLGgb/25.jpg"
                 },
                 {
+                    "nombre": "Las lineas de Nazca",
+                    "autor":"Maryland",
+                    "numero": 94,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los Suelos",
+                    "autor":"Huascaran",
+                    "numero": 511,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Ruinas de Lima",
+                    "autor":"Huascaran",
+                    "numero": 949,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Productos Agricolas Sierra",
+                    "autor":"Huascaran",
+                    "numero": 952,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Productos Agricolas Selva",
+                    "autor":"Huascaran",
+                    "numero": 953,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Cultura Nazca",
+                    "autor":"Maryland",
+                    "numero": 19,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Vestimenta de los Incas",
+                    "autor":"Huascaran",
+                    "numero": 4,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Cultura Tiahuanaco",
+                    "autor":"Huascaran",
+                    "numero": 5,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Señor de Sipán",
+                    "autor":"Maryland",
+                    "numero": 18,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los 14 Incas",
+                    "autor":"Huascaran",
+                    "numero": 2,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Cultura Chimú",
+                    "autor":"Huascaran",
+                    "numero": 12,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Los viajes de Pizarro",
                     "autor": "Fiorella",
                     "numero": 88,
@@ -176,6 +248,31 @@
                     "autor": "Fiorella",
                     "numero": 102,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Cultura Chavin",
+                    "autor":"Huascaran",
+                    "numero": 52,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Lineas Imaginarias",
+                    "autor":"Huascaran",
+                    "numero": 613,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Señales de Tránsito",
+                    "autor":"Huascaran",
+                    "numero": 615,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+
+                {
+                    "nombre": "Cultu",
+                    "autor":"Huascaran",
+                    "numero": 53,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Presidentes peruanos III",
@@ -244,6 +341,54 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Precursores de la Independencia",
+                    "autor":"Huascaran",
+                    "numero": 157,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Proceres y Precursores del Perú",
+                    "autor":"Huascaran",
+                    "numero": 159,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Miguel de Cervantes Saavedra",
+                    "autor":"Huascaran",
+                    "numero": 176,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Siglo XX",
+                    "autor":"Huascaran",
+                    "numero": 809,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Poder Ejecutivo",
+                    "autor":"Huascaran",
+                    "numero": 821,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Poder Legislativo",
+                    "autor":"Huascaran",
+                    "numero": 822,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Poder Judicial",
+                    "autor":"Huascaran",
+                    "numero": 823,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Mapas del Perú",
+                    "autor":"Huascaran",
+                    "numero": 187,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento Cuzco",
                     "autor": "Fiorella",
                     "numero": 144,
@@ -256,6 +401,24 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Movimientos de la Tierra",
+                    "autor":"Huascaran",
+                    "numero": 726,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Sol",
+                    "autor":"Huascaran",
+                    "numero": 728,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La Luna",
+                    "autor":"Huascaran",
+                    "numero": 730,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento Ica",
                     "autor": "Fiorella",
                     "numero": 147,
@@ -266,6 +429,12 @@
                     "autor": "Fiorella",
                     "numero": 148,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Templos Pre-Incas",
+                    "autor":"Huascaran",
+                    "numero": 336,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Departamento La Libertad",
@@ -286,6 +455,24 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Mar Peruano 200 millas",
+                    "autor":"Huascaran",
+                    "numero": 211,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Fenómeno del Niño",
+                    "autor":"Huascaran",
+                    "numero": 212,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Machu Picchu",
+                    "autor":"Huascaran",
+                    "numero": 287,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento Lambayeque",
                     "autor": "Fiorella",
                     "numero": 153,
@@ -304,10 +491,76 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Cultura Paracas I",
+                    "autor":"Huascaran",
+                    "numero": 698,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Cultura Paracas II",
+                    "autor":"Huascaran",
+                    "numero": 699,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento Moquegua",
                     "autor": "Fiorella",
                     "numero": 157,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Trajes Tipicos de la Costa",
+                    "autor":"Huascaran",
+                    "numero": 867,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Trajes Tipicos de la Sierra",
+                    "autor":"Huascaran",
+                    "numero": 868,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Trajes Tipicos de la Selva",
+                    "autor":"Huascaran",
+                    "numero": 869,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Bailes Tipicos de la Costa",
+                    "autor":"Huascaran",
+                    "numero": 871,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Bailes Tipicos de la Sierra",
+                    "autor":"Huascaran",
+                    "numero": 872,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Bailes Tipicos de la Selva",
+                    "autor":"Huascaran",
+                    "numero": 873,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Platos Tipicos de la Costa",
+                    "autor":"Huascaran",
+                    "numero": 875,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Platos Tipicos de la Selva",
+                    "autor":"Huascaran",
+                    "numero": 877,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Heroes del Perú",
+                    "autor":"Huascaran",
+                    "numero": 880,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Departamento Tacna",
@@ -478,6 +731,18 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Organizacion Economica Incaica",
+                    "autor":"Huascaran",
+                    "numero": 324,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Ganaderia Incaica",
+                    "autor":"Huascaran",
+                    "numero": 330,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento de San Martin",
                     "autor": "Maryland",
                     "numero": 369,
@@ -496,10 +761,22 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Las Collas Inca",
+                    "autor":"Huascaran",
+                    "numero": 385,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Departamento de Apurimac",
                     "autor": "Maryland",
                     "numero": 372,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Agricultura Incaica",
+                    "autor":"Huascaran",
+                    "numero": 313,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Departamento de Pasco",
@@ -518,6 +795,18 @@
                     "autor": "Maryland",
                     "numero": 30,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo Act. Economica",
+                    "autor":"Maryland",
+                    "numero": 746,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Tahuantinsuyo Organización Económica",
+                    "autor":"Maryland",
+                    "numero": 751,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Cultura Chimú",
@@ -548,6 +837,18 @@
                     "autor": "Maryland",
                     "numero": 206,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Proceres de la Independencia",
+                    "autor":"Huascaran",
+                    "numero": 27,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Independencia del Perú",
+                    "autor":"Huascaran",
+                    "numero": 33,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Mapa politico-fisico de Asia",
@@ -710,6 +1011,24 @@
                     "autor": "Maryland",
                     "numero": 176,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "El Señor de Sipán",
+                    "autor":"Huascaran",
+                    "numero": 276,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las Lineas de Nazca",
+                    "autor":"Huascaran",
+                    "numero": 280,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Relieves Costa Sierra Selva",
+                    "autor":"Huascaran",
+                    "numero": 581,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
                 
             ]
@@ -733,6 +1052,36 @@
                     "nombre": "Registro nacional de identificacion y esatdo civil",
                     "autor":"Fiorella",
                     "numero": 605,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El sueño de San Martin",
+                    "autor":"Huascaran",
+                    "numero": 92,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La Computación",
+                    "autor":"Huascaran",
+                    "numero": 884,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Servidores de la Comunidad",
+                    "autor":"Huascaran",
+                    "numero": 924,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Fiestas Patronales",
+                    "autor":"Huascaran",
+                    "numero": 939,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Andres Avelino Cáceres",
+                    "autor":"Huascaran",
+                    "numero": 127,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
@@ -760,6 +1109,18 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
+                    "nombre": "Día Internacional de la Paz",
+                    "autor":"Huascaran",
+                    "numero": 302,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia de la Biblioteca Escolar",
+                    "autor":"Huascaran",
+                    "numero": 304,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Dia del anciano",
                     "autor":"Fiorella",
                     "numero": 592,
@@ -784,6 +1145,18 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Profesiones y Oficios",
+                    "autor":"Huascaran",
+                    "numero": 710,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los cinco sentidos",
+                    "autor":"Huascaran",
+                    "numero": 718,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Dia Mundial de la salud",
                     "autor": "Fiorella",
                     "numero": 234,
@@ -806,6 +1179,12 @@
                     "autor": "Fiorella",
                     "numero": 21,
                     "imagen": "https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Derechos y Deberes",
+                    "autor":"Huascaran",
+                    "numero": 391,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Dia del maestro",
@@ -926,6 +1305,90 @@
                     "autor": "Fiorella",
                     "numero": 134,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Inca Garcilaso de la Vega",
+                    "autor":"Huascaran",
+                    "numero": 23,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Cesar Vallejo",
+                    "autor":"Huascaran",
+                    "numero": 24,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Miguel Grau",
+                    "autor":"Huascaran",
+                    "numero": 144,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Don Jose Galvez",
+                    "autor":"Huascaran",
+                    "numero": 145,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Ramon Castilla",
+                    "autor":"Huascaran",
+                    "numero": 156,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las Drogras y la drogadicción",
+                    "autor":"Huascaran",
+                    "numero": 229,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Derechos del Niño",
+                    "autor":"Huascaran",
+                    "numero": 283,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia del Niño",
+                    "autor":"Huascaran",
+                    "numero": 284,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Microscopio",
+                    "autor":"Huascaran",
+                    "numero": 239,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La Violencia",
+                    "autor":"Huascaran",
+                    "numero": 497,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Valores Morales",
+                    "autor":"Huascaran",
+                    "numero": 498,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Figuras Geometricas",
+                    "autor":"Huascaran",
+                    "numero": 505,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Julio Cesar Tello",
+                    "autor":"Huascaran",
+                    "numero": 594,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Día del Idioma",
+                    "autor":"Huascaran",
+                    "numero": 693,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
             ]
         },
@@ -939,19 +1402,19 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "Romeo y Julieta",
+                    "nombre": "Romeo y Julieta 'William Shakepeare'",
                     "autor": "Maryland",
                     "numero": 432,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "La vida es Sueño",
+                    "nombre": "La vida es Sueño 'Pedro Calderon de la Barca'",
                     "autor": "Maryland",
                     "numero": 438,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "Edipo Rey",
+                    "nombre": "Edipo Rey 'Sofocles'",
                     "autor": "Maryland",
                     "numero": 493,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
@@ -968,12 +1431,12 @@
                     "numero": 90,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },                {
-                    "nombre": "Tradiciones Peruanas",
+                    "nombre": "Tradiciones Peruanas 'Ricardo Palma'",
                     "autor": "Maryland",
                     "numero": 348,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },                {
-                    "nombre": "Ña Catita",
+                    "nombre": "Ña Catita 'Asencio Segura'",
                     "autor": "Maryland",
                     "numero": 349,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
@@ -997,22 +1460,52 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "Comentarios Reales",
+                    "nombre": "Comentarios Reales 'Inca Garcilaso'",
                     "autor": "Maryland",
                     "numero": 495,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "La Iliada",
+                    "nombre": "La Iliada 'Homero'",
                     "autor": "Maryland",
                     "numero": 490,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
-                    "nombre": "La Odisea",
+                    "nombre": "La Odisea 'Homero'",
                     "autor": "Maryland",
                     "numero": 491,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Metamorfosis 'Franz Kafka'",
+                    "autor":"Maryland",
+                    "numero": 343,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Avaro 'Moliére'",
+                    "autor":"Maryland",
+                    "numero": 344,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Partes de la Casa",
+                    "autor":"Huascaran",
+                    "numero": 337,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Iliada y Odisea",
+                    "autor":"Huascaran",
+                    "numero": 857,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Dia de la Juventud y Primavera",
+                    "autor":"Huascaran",
+                    "numero": 1008,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
             ]
         },
@@ -1026,10 +1519,28 @@
                     "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
                 },
                 {
+                    "nombre": "Partes de la Misa",
+                    "autor":"Huascaran",
+                    "numero": 825,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Bautismo",
+                    "autor":"Huascaran",
+                    "numero": 827,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "La santisima trinidad",
                     "autor": "Fiorella",
                     "numero": 249,
                     "imagen": "https://i.ibb.co/qnQGgF0/01.jpg"
+                },
+                {
+                    "nombre": "Adviento",
+                    "autor":"Maryland",
+                    "numero": 110,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Anunciacion de María",
@@ -1104,6 +1615,12 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "San Martin de Porres",
+                    "autor":"Huascaran",
+                    "numero": 547,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Sagradas imágenes",
                     "autor": "Fiorella",
                     "numero": 172,
@@ -1146,6 +1663,30 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Los sacramentos",
+                    "autor":"Huascaran",
+                    "numero": 56,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La Última Cena",
+                    "autor":"Huascaran",
+                    "numero": 130,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las diez Plagas",
+                    "autor":"Huascaran",
+                    "numero": 58,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Milagros de Jesús",
+                    "autor":"Huascaran",
+                    "numero": 306,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Los Santos",
                     "autor": "Fiorella",
                     "numero": 173,
@@ -1168,6 +1709,18 @@
                     "autor": "Maryland",
                     "numero": 912,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Diez Mandamientos",
+                    "autor":"Huascaran",
+                    "numero": 196,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Santa Rosa de Lima",
+                    "autor":"Huascaran",
+                    "numero": 268,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
             ]
         },
@@ -1221,6 +1774,72 @@
                     "autor": "Fiorella",
                     "numero": 109,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Instrumentos Musicales",
+                    "autor":"Huascaran",
+                    "numero": 62,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Tennis",
+                    "autor":"Huascaran",
+                    "numero": 1026,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Basquetbol",
+                    "autor":"Huascaran",
+                    "numero": 1027,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Gimnasia",
+                    "autor":"Huascaran",
+                    "numero": 1030,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Voley",
+                    "autor":"Huascaran",
+                    "numero": 1031,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Futbol",
+                    "autor":"Huascaran",
+                    "numero": 1032,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Pruebas de Salto",
+                    "autor":"Huascaran",
+                    "numero": 1035,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Flora y Fauna Costa",
+                    "autor":"Huascaran",
+                    "numero": 1036,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Flora y Fauna Sierra",
+                    "autor":"Huascaran",
+                    "numero": 1037,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Flora y Fauna Selva",
+                    "autor":"Huascaran",
+                    "numero": 1038,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Bullying o Acoso Escolar",
+                    "autor":"Huascaran",
+                    "numero": 1065,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
 
             ]
@@ -1233,6 +1852,12 @@
                     "autor": "Fiorella",
                     "numero": 6,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Tipos de Balanzas",
+                    "autor":"Huascaran",
+                    "numero": 1004,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Enfermedad de la tercera edad",
@@ -1259,9 +1884,81 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
+                    "nombre": "Cambios Fisicos y Quimicos",
+                    "autor":"Huascaran",
+                    "numero": 398,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Metodos de separacion de Mezclas",
+                    "autor":"Huascaran",
+                    "numero": 399,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La piel y sus partes",
+                    "autor":"Huascaran",
+                    "numero": 418,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "La Germinación",
+                    "autor":"Huascaran",
+                    "numero": 426,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Desastres Naturales",
+                    "autor":"Huascaran",
+                    "numero": 473,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Celula Animal y Vegetal",
+                    "autor":"Huascaran",
+                    "numero": 457,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Teorias del origen del Universo",
+                    "autor":"Huascaran",
+                    "numero": 484,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Agujeros Negros",
+                    "autor":"Huascaran",
+                    "numero": 485,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Reino Monera",
+                    "autor":"Huascaran",
+                    "numero": 492,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Reino Protista",
+                    "autor":"Huascaran",
+                    "numero": 493,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Reino Fungi 'Hongos'",
+                    "autor":"Huascaran",
+                    "numero": 494,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "El parto",
                     "autor":"Fiorella",
                     "numero": 590,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los Tipos de Tejidos",
+                    "autor":"Huascaran",
+                    "numero": 316,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
@@ -1277,10 +1974,16 @@
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
                 },
                 {
-                    "nombre": "Los ecsistemas",
+                    "nombre": "Los ecosistemas",
                     "autor": "Fiorella",
                     "numero": 251,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Instrumentos de Laboratorio",
+                    "autor":"Huascaran",
+                    "numero": 217,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Las estaciones",
@@ -1305,6 +2008,30 @@
                     "autor": "Fiorella",
                     "numero": 232,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Sistema Circulatorio",
+                    "autor":"Huascaran",
+                    "numero": 68,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Sistema Digestivo",
+                    "autor":"Huascaran",
+                    "numero": 69,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Sistema Respiratorio",
+                    "autor":"Huascaran",
+                    "numero": 70,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Sistema Muscular",
+                    "autor":"Huascaran",
+                    "numero": 72,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "La semilla",
@@ -1380,6 +2107,12 @@
                     "imagen": "https://i.ibb.co/CHj7P49/18.jpg"
                 },
                 {
+                    "nombre": "La Materia",
+                    "autor":"Huascaran",
+                    "numero": 333,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Aparato Digestivo",
                     "autor": "Fiorella",
                     "numero": 19,
@@ -1434,6 +2167,12 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Los Artrópodos insectos",
+                    "autor":"Huascaran",
+                    "numero": 37,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Animales Crustaceos",
                     "autor": "Fiorella",
                     "numero": 100,
@@ -1464,10 +2203,58 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Partes de la Planta 'Tallo'",
+                    "autor":"Huascaran",
+                    "numero": 244,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Partes de la Planta 'Raiz'",
+                    "autor":"Huascaran",
+                    "numero": 245,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Planisferio",
+                    "autor":"Huascaran",
+                    "numero": 377,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Maquinas Simples",
+                    "autor":"Huascaran",
+                    "numero": 352,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "El Ciclo del Agua",
+                    "autor":"Huascaran",
+                    "numero": 255,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Partes de la Planta 'Hoja'",
+                    "autor":"Huascaran",
+                    "numero": 246,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Productos Agricolas - Sierra",
                     "autor": "Fiorella",
                     "numero": 175,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Planetas",
+                    "autor":"Huascaran",
+                    "numero": 523,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las Rocas",
+                    "autor":"Huascaran",
+                    "numero": 543,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
                     "nombre": "Aves I",
@@ -1512,6 +2299,18 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Accidentes Geográficos",
+                    "autor":"Huascaran",
+                    "numero": 60,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Las Estaciones",
+                    "autor":"Huascaran",
+                    "numero": 203,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Animales Mamiferos II",
                     "autor": "Fiorella",
                     "numero": 131,
@@ -1542,6 +2341,18 @@
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
                 },
                 {
+                    "nombre": "Las Vitaminas",
+                    "autor":"Huascaran",
+                    "numero": 292,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Enfermedades",
+                    "autor":"Huascaran",
+                    "numero": 293,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
                     "nombre": "Agujeros negros",
                     "autor":"Fiorella",
                     "numero": 598,
@@ -1558,6 +2369,72 @@
                     "autor": "Fiorella",
                     "numero": 136,
                     "imagen": "https://i.ibb.co/8DtCvPX/13.jpg"
+                },
+                {
+                    "nombre": "Los Alimentos",
+                    "autor":"Huascaran",
+                    "numero": 3,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Ecosistema Polar",
+                    "autor":"Huascaran",
+                    "numero": 627,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Plazas Importantes del Perú",
+                    "autor":"Huascaran",
+                    "numero": 692,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Etapas de la Vida",
+                    "autor":"Huascaran",
+                    "numero": 273,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Minerales Metalicos y no Metalicos",
+                    "autor":"Huascaran",
+                    "numero": 10,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los Fosiles",
+                    "autor":"Huascaran",
+                    "numero": 191,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Los 5 sentidos",
+                    "autor":"Huascaran",
+                    "numero": 11,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Animales Salvajes",
+                    "autor":"Huascaran",
+                    "numero": 13,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Animales Domésticos",
+                    "autor":"Huascaran",
+                    "numero": 26,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Mapa Vial e Hidrografico",
+                    "autor":"Huascaran",
+                    "numero": 21,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },                
+                {
+                    "nombre": "Mapa Turistico y Climatico",
+                    "autor":"Huascaran",
+                    "numero": 22,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 }
             ]
         }
