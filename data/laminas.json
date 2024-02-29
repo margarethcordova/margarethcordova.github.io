@@ -58,15 +58,21 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Paleolítico",
+                    "nombre": "La Semilla",
                     "autor":"Fiorella",
                     "numero": 241,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "Neolítico",
+                    "nombre": "Paleolitico",
                     "autor":"Fiorella",
                     "numero": 242,
+                    "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Neolitico",
+                    "autor":"Fiorella",
+                    "numero": 243,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
@@ -1506,6 +1512,18 @@
                     "autor":"Huascaran",
                     "numero": 1008,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                },
+                {
+                    "nombre": "Lazarillo de Tormes 'Anonimo'",
+                    "autor": "Maryland kids",
+                    "numero": 345,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Don Quijote de la Mancha 'Cervantes Saavedra'",
+                    "autor": "Maryland kids",
+                    "numero": 346,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
                 }
             ]
         },
@@ -2034,14 +2052,14 @@
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
                 },
                 {
-                    "nombre": "La semilla",
+                    "nombre": "Mapa politico-fisico de America Central",
                     "autor": "Fiorella",
                     "numero": 240,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
                 },
                 {
                     "nombre": "Hortalizas",
-                    "autor": "Fiorsella",
+                    "autor": "Fiorella",
                     "numero": 235,
                     "imagen": "https://i.ibb.co/P5803H4/06.jpg"
                 },
@@ -2435,6 +2453,641 @@
                     "autor":"Huascaran",
                     "numero": 22,
                     "imagen": "https://i.ibb.co/CvwNbGm/03.jpg"
+                }
+            ]
+        },
+        {
+            "curso": "Kids",
+            "temas": [
+                {
+                    "nombre": "Normas de Convivencia",
+                    "autor": "Maryland kids",
+                    "numero": 1,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los Buenos Modales",
+                    "autor": "Maryland kids",
+                    "numero": 2,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Palabras Magicas",
+                    "autor": "Maryland kids",
+                    "numero": 3,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Habitos de Aseo Personal",
+                    "autor": "Maryland kids",
+                    "numero": 4,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Utiles de Aseo Personal",
+                    "autor": "Maryland kids",
+                    "numero": 5,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Habitos Alimenticios",
+                    "autor": "Maryland kids",
+                    "numero": 6,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Habitos de Limpieza",
+                    "autor": "Maryland kids",
+                    "numero": 8,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Utiles de Limpieza",
+                    "autor": "Maryland kids",
+                    "numero": 9,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Utiles Escolares",
+                    "autor": "Maryland kids",
+                    "numero": 10,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "El Cuerpo Humano",
+                    "autor": "Maryland kids",
+                    "numero": 11,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Articulaciones del cuerpo",
+                    "autor": "Maryland kids",
+                    "numero": 12,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },                
+                {
+                    "nombre": "Sistema Digestivo",
+                    "autor": "Maryland kids",
+                    "numero": 13,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Sistema Respiratorio",
+                    "autor": "Maryland kids",
+                    "numero": 14,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Sistema Circulatorio",
+                    "autor": "Maryland kids",
+                    "numero": 15,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Sistema Oseo",
+                    "autor": "Maryland kids",
+                    "numero": 16,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los 5 sentidos",
+                    "autor": "Maryland kids",
+                    "numero": 17,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "El sentido de la Vista",
+                    "autor": "Maryland kids",
+                    "numero": 18,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "El sentido de la Gusto",
+                    "autor": "Maryland kids",
+                    "numero": 21,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Cuidado de los Sentidos",
+                    "autor": "Maryland kids",
+                    "numero": 25,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La Identidad Sexual",
+                    "autor": "Maryland kids",
+                    "numero": 26,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "El Cuerpo Humano",
+                    "autor": "Maryland kids",
+                    "numero": 27,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Caracterisicas Fisicas",
+                    "autor": "Maryland kids",
+                    "numero": 28,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Femenino y Masculino",
+                    "autor": "Maryland kids",
+                    "numero": 29,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Prendas de Vestir",
+                    "autor": "Maryland kids",
+                    "numero": 30,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Estados de Animo",
+                    "autor": "Maryland kids",
+                    "numero": 31,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los Dientes",
+                    "autor": "Maryland kids",
+                    "numero": 33,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Alimentos saludable y no saludables",
+                    "autor": "Maryland kids",
+                    "numero": 34,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los miembros de la Familia",
+                    "autor": "Maryland kids",
+                    "numero": 35,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los roles de la Madre",
+                    "autor": "Maryland kids",
+                    "numero": 37,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los roles del Padre",
+                    "autor": "Maryland kids",
+                    "numero": 38,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los roles de los Hijos",
+                    "autor": "Maryland kids",
+                    "numero": 39,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La casa y sus ambientes",
+                    "autor": "Maryland kids",
+                    "numero": 40,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Dia de la Educacion Inicial",
+                    "autor": "Maryland kids",
+                    "numero": 43,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La Escuela y sus ambientes",
+                    "autor": "Maryland kids",
+                    "numero": 44,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los miembros de la escuela",
+                    "autor": "Maryland kids",
+                    "numero": 45,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Figuras Geometricas",
+                    "autor": "Maryland kids",
+                    "numero": 48,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Objetos circulares y cuadrados",
+                    "autor": "Maryland kids",
+                    "numero": 49,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Objetos rectangulares y triangulares",
+                    "autor": "Maryland kids",
+                    "numero": 50,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Objetos ovalados y romboides",
+                    "autor": "Maryland kids",
+                    "numero": 51,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Vocal 'A'",
+                    "autor": "Maryland kids",
+                    "numero": 62,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Vocal 'E'",
+                    "autor": "Maryland kids",
+                    "numero": 63,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Vocal 'I'",
+                    "autor": "Maryland kids",
+                    "numero": 64,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Vocal 'O'",
+                    "autor": "Maryland kids",
+                    "numero": 65,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Vpcal 'U'",
+                    "autor": "Maryland kids",
+                    "numero": 66,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Las Vocales",
+                    "autor": "Maryland kids",
+                    "numero": 67,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "El Abecedario",
+                    "autor": "Maryland kids",
+                    "numero": 70,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La Profesiones",
+                    "autor": "Maryland kids",
+                    "numero": 83,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los Oficios",
+                    "autor": "Maryland kids",
+                    "numero": 84,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Medios de Transporte",
+                    "autor": "Maryland kids",
+                    "numero": 85,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Medios de Comunicacion",
+                    "autor": "Maryland kids",
+                    "numero": 86,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Las Estaciones",
+                    "autor": "Maryland kids",
+                    "numero": 88,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Las Regiones del Peru",
+                    "autor": "Maryland kids",
+                    "numero": 111,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La Region Costa",
+                    "autor": "Maryland kids",
+                    "numero": 113,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "La Region Sierra",
+                    "autor": "Maryland kids",
+                    "numero": 114,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Los simbolos de la patria",
+                    "autor": "Maryland kids",
+                    "numero": 116,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Las seguridades ante sismos",
+                    "autor": "Maryland kids",
+                    "numero": 121,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "Santa Rosa de Lima",
+                    "autor": "Maryland kids",
+                    "numero": 143,
+                    "imagen": "https://i.ibb.co/P5803H4/06.jpg"
+                },
+                {
+                    "nombre": "San Martin de Porres",
+                    "autor": "Maryland kids",
+                    "numero": 145,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Normas de Seguridad Vial",
+                    "autor": "Maryland kids",
+                    "numero": 151,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "El Habitat de los animales",
+                    "autor": "Maryland kids",
+                    "numero": 169,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los Estados del Agua",
+                    "autor": "Maryland kids",
+                    "numero": 171,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "El Ahorro de la Energía",
+                    "autor": "Maryland kids",
+                    "numero": 277,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "La Planta y sus partes",
+                    "autor": "Maryland kids",
+                    "numero": 283,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Partes de la Planta 'Hoja'",
+                    "autor": "Maryland kids",
+                    "numero": 286,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Partes de la Planta 'Flor'",
+                    "autor": "Maryland kids",
+                    "numero": 287,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Partes de la Planta 'Fruto'",
+                    "autor": "Maryland kids",
+                    "numero": 288,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los Colores",
+                    "autor": "Fiorella Kids",
+                    "numero": 3,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Utensilios para comer",
+                    "autor": "Fiorella Kids",
+                    "numero": 4,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "La casa y sus ambientes",
+                    "autor": "Fiorella Kids",
+                    "numero": 5,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los Utiles de Limpieza",
+                    "autor": "Fiorella Kids",
+                    "numero": 6,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Caracterisicas Fisicas",
+                    "autor": "Fiorella Kids",
+                    "numero": 13,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los Sentidos",
+                    "autor": "Fiorella Kids",
+                    "numero": 14,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Objetos rectangulares y triangulares",
+                    "autor": "Fiorella Kids",
+                    "numero": 20,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los articulos 'Los-Las'",
+                    "autor": "Fiorella Kids",
+                    "numero": 21,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los articulos 'El-La'",
+                    "autor": "Fiorella Kids",
+                    "numero": 22,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Singular y Plural",
+                    "autor": "Fiorella Kids",
+                    "numero": 23,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "La letra M",
+                    "autor": "Fiorella Kids",
+                    "numero": 25,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los roles de los Hijos",
+                    "autor": "Fiorella Kids",
+                    "numero": 26,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "La Etapas de la Vida",
+                    "autor": "Fiorella Kids",
+                    "numero": 27,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "El Arbol Genealogico",
+                    "autor": "Fiorella Kids",
+                    "numero": 28,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Los miembros de la Escuela",
+                    "autor": "Fiorella Kids",
+                    "numero": 29,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Objetos de la Sala-Cocina",
+                    "autor": "Fiorella Kids",
+                    "numero": 30,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Medios de Transporte",
+                    "autor": "Fiorella Kids",
+                    "numero": 37,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Medios de Comunicacion",
+                    "autor": "Fiorella Kids",
+                    "numero": 38,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Acciones Cotidianas del Niño",
+                    "autor": "Fiorella Kids",
+                    "numero": 39,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Rol de la Policia",
+                    "autor": "Fiorella Kids",
+                    "numero": 40,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Seres No vivos",
+                    "autor": "Fiorella Kids",
+                    "numero": 43,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Seres Vivos",
+                    "autor": "Fiorella Kids",
+                    "numero": 44,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Nocion de Posicion",
+                    "autor": "Fiorella Kids",
+                    "numero": 47,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Clases de Animales",
+                    "autor": "Fiorella Kids",
+                    "numero": 48,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Rol de Enfermera",
+                    "autor": "Fiorella Kids",
+                    "numero": 41,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "El Semaforo",
+                    "autor": "Fiorella Kids",
+                    "numero": 50,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Medios de Transporte Aereo",
+                    "autor": "Fiorella Kids",
+                    "numero": 51,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Medios de Transporte Acuatico",
+                    "autor": "Fiorella Kids",
+                    "numero": 52,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Contaminacion del Aire",
+                    "autor": "Fiorella Kids",
+                    "numero": 54,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Nocion del Tiempo",
+                    "autor": "Fiorella Kids",
+                    "numero": 57,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Lectoescritura",
+                    "autor": "Fiorella Kids",
+                    "numero": 60,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Rol del Sacerdote",
+                    "autor": "Fiorella Kids",
+                    "numero": 66,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra F",
+                    "autor": "Fiorella Kids",
+                    "numero": 68,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra H",
+                    "autor": "Fiorella Kids",
+                    "numero": 69,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra R",
+                    "autor": "Fiorella Kids",
+                    "numero": 70,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra N",
+                    "autor": "Fiorella Kids",
+                    "numero": 72,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra D",
+                    "autor": "Fiorella Kids",
+                    "numero": 78,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Letra G",
+                    "autor": "Fiorella Kids",
+                    "numero": 79,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
+                },
+                {
+                    "nombre": "Las Vocales",
+                    "autor": "Fiorella Kids",
+                    "numero": 91,
+                    "imagen":"https://i.ibb.co/3cbk3xL/21.jpg"
                 }
             ]
         }
