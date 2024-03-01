@@ -28,6 +28,13 @@
         "imagen": "https://i.ibb.co/vJBV44M/product4.jpg"
     },
     {
+        "nombre": "Silicona 250ml",
+        "precio": 8.40,
+        "marca": "Artesco",
+        "tipo": "pegamento",
+        "imagen": "https://i.ibb.co/vkNbqPz/silicona3.jpg"
+    },
+    {
         "nombre": "Mini cola Sintetica",
         "precio": 0.70,
         "marca": "David",
@@ -61,5 +68,13 @@
         "marca": "FaberCastell",
         "tipo": "oficina",
         "imagen": "https://i.ibb.co/D8y8vXr/product8.jpg"
+    },
+    {
+        "nombre": "FABERCITO",
+        "precio": 3.80,
+        "marca": "FaberCastell",
+        "tipo": "plumones",
+        "imagen": "https://i.ibb.co/gPFKw1w/plumon.jpg"
     }
+
 ]
